@@ -1,0 +1,25 @@
+{
+  "analysis_date": "2024-12-13",
+  "platform": "AWS Lambda + Step Functions",
+  "region": "us-east-1",
+  "workflows_executed": 3,
+  "total_invocations": 45,
+  "success_rate": "100%",
+  "workflows": {
+    "620.func-invo": {
+      "your_latency_ms": 700,
+      "artifact_latency_ms": 6429.365158081055,
+      "improvement_pct": 89.11245538573631
+    },
+    "630.parallel-sleep": {
+      "your_latency_ms": 685.0,
+      "artifact_latency_ms": 2186.272014271129,
+      "improvement_pct": 68.66812567106984
+    },
+    "660.map-reduce": {
+      "your_latency_ms": 688.13,
+      "artifact_latency_ms": 2076.57740910848,
+      "improvement_pct": 66.86229961947677
+    }
+  }
+}

@@ -1,0 +1,16 @@
+Workflow,Platform,Invocation_ID,Benchmark_Time_ms,Client_Time_ms,Success
+660_map_reduce,AZURE,0058f594,25350,4661062,True
+660_map_reduce,AZURE,115d0ebd,22495,29145101,True
+660_map_reduce,AZURE,4e4f391f,23397,4677180,True
+660_map_reduce,AZURE,5a34387e,34985,4681529,True
+660_map_reduce,AZURE,5ae28ae7,30238,4711775,True
+660_map_reduce,AZURE,693b1d26,21740,4698076,True
+660_map_reduce,AZURE,77369265,22985,4675257,True
+660_map_reduce,AZURE,bf132eb3,19278,4663879,True
+660_map_reduce,AZURE,c2615959,23217,4696257,True
+660_map_reduce,AZURE,d06e512e,88705,21276361,True
+660_map_reduce,AZURE,d3fd950e,21774,29227186,True
+660_map_reduce,AZURE,d867784c,17372,4683931,True
+660_map_reduce,AZURE,e2b75194,137589,31724482,True
+660_map_reduce,AZURE,e4c49d71,41925,21003265,True
+660_map_reduce,AZURE,e93fb365,28127,16933022,True

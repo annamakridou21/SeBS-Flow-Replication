@@ -1,0 +1,9 @@
+{
+  "workflow": "630.parallel-sleep",
+  "platform": "azure",
+  "repetitions_completed": 15,
+  "status": "COMPLETE",
+  "timestamp": "203838",
+  "log_file": "workflow_630_azure_20251213_203838.log",
+  "note": "Extracted from log file - original experiments.json was overwritten"
+}

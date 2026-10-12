@@ -1,0 +1,9 @@
+{
+  "workflow": "620.func-invo",
+  "platform": "azure",
+  "repetitions_completed": 15,
+  "status": "COMPLETE",
+  "timestamp": "20251213_202218",
+  "log_file": "workflow_620_azure_20251213_202218.log",
+  "note": "Extracted from log file - original experiments.json was overwritten"
+}

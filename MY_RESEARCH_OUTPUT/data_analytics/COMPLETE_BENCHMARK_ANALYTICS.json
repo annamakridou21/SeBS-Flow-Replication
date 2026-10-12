@@ -1,0 +1,1759 @@
+{
+  "function_benchmarks": {
+    "110_dynamic_html": {
+      "aws": {
+        "invocations": [
+          {
+            "id": "05f66781-1568-42c1-9958-ad210f6bf4ac",
+            "benchmark_time": 1777,
+            "client_time": 238888,
+            "cold_start": false,
+            "memory_used": 47.0,
+            "billed_time": 9
+          },
+          {
+            "id": "06f694c3-32b6-47a9-9409-6e73f646e5f8",
+            "benchmark_time": 1805,
+            "client_time": 198324,
+            "cold_start": false,
+            "memory_used": 47.0,
+            "billed_time": 16
+          },
+          {
+            "id": "165b67b6-5b62-4b98-88f5-af3fe941904f",
+            "benchmark_time": 947238,
+            "client_time": 2028522,
+            "cold_start": true,
+            "memory_used": 47.0,
+            "billed_time": 1103
+          },
+          {
+            "id": "17f19784-adb7-4789-b7c2-f634d08fd518",
+            "benchmark_time": 9901,
+            "client_time": 199228,
+            "cold_start": false,
+            "memory_used": 47.0,
+            "billed_time": 12
+          },
+          {
+            "id": "24ed9a8f-4b6b-4619-9c04-67907cd8bf8e",
+            "benchmark_time": 1935,
+            "client_time": 199375,
+            "cold_start": false,
+            "memory_used": 47.0,
+            "billed_time": 5
+          },
+          {
+            "id": "4c2d44a2-e977-45fe-aaaa-bef346c28975",
+            "benchmark_time": 1754,
+            "client_time": 198145,
+            "cold_start": false,
+            "memory_used": 47.0,
+            "billed_time": 21
+          },
+          {
+            "id": "4f05511e-a889-476e-91e5-714a9199f754",
+            "benchmark_time": 1738,
+            "client_time": 198723,
+            "cold_start": false,
+            "memory_used": 47.0,
+            "billed_time": 15
+          },
+          {
+            "id": "514886e8-85cb-4a6a-b73d-13daffde84f0",
+            "benchmark_time": 1762,
+            "client_time": 197836,
+            "cold_start": false,
+            "memory_used": 47.0,
+            "billed_time": 6
+          },
+          {
+            "id": "70922ef0-01ab-4662-90a9-8e6ec4e883a8",
+            "benchmark_time": 1798,
+            "client_time": 198964,
+            "cold_start": false,
+            "memory_used": 47.0,
+            "billed_time": 16
+          },
+          {
+            "id": "84f11737-1316-4873-ae16-7d1577e460d9",
+            "benchmark_time": 5870,
+            "client_time": 207652,
+            "cold_start": false,
+            "memory_used": 47.0,
+            "billed_time": 8
+          },
+          {
+            "id": "918b663a-a269-428d-a9ce-12e8bf35c5e4",
+            "benchmark_time": 1892,
+            "client_time": 218457,
+            "cold_start": false,
+            "memory_used": 47.0,
+            "billed_time": 12
+          },
+          {
+            "id": "949395a3-6010-48f8-8400-877d91a5e32d",
+            "benchmark_time": 1727,
+            "client_time": 221826,
+            "cold_start": false,
+            "memory_used": 47.0,
+            "billed_time": 20
+          },
+          {
+            "id": "a08c41a2-3ce2-40ea-9c17-aa58e04b9813",
+            "benchmark_time": 1740,
+            "client_time": 217248,
+            "cold_start": false,
+            "memory_used": 47.0,
+            "billed_time": 23
+          },
+          {
+            "id": "a4490100-6729-4899-a522-a633c47c20f8",
+            "benchmark_time": 13919,
+            "client_time": 199130,
+            "cold_start": false,
+            "memory_used": 47.0,
+            "billed_time": 16
+          },
+          {
+            "id": "a4fb4339-0d2c-412e-a5e8-bc28f4cdcdf2",
+            "benchmark_time": 1874,
+            "client_time": 198986,
+            "cold_start": false,
+            "memory_used": 47.0,
+            "billed_time": 15
+          },
+          {
+            "id": "a54cc82b-45dc-4b70-a474-7345e62bd5cb",
+            "benchmark_time": 1703,
+            "client_time": 197637,
+            "cold_start": false,
+            "memory_used": 47.0,
+            "billed_time": 10
+          },
+          {
+            "id": "ac725859-5a5b-4252-8373-f4bf6cc23d4b",
+            "benchmark_time": 1770,
+            "client_time": 198509,
+            "cold_start": false,
+            "memory_used": 47.0,
+            "billed_time": 6
+          },
+          {
+            "id": "b5b4e0d6-4350-4718-9630-09261ee48f0c",
+            "benchmark_time": 1734,
+            "client_time": 199885,
+            "cold_start": false,
+            "memory_used": 47.0,
+            "billed_time": 16
+          },
+          {
+            "id": "b7e71838-077e-4764-beff-6bbcb115a6bb",
+            "benchmark_time": 1764,
+            "client_time": 196561,
+            "cold_start": false,
+            "memory_used": 47.0,
+            "billed_time": 12
+          },
+          {
+            "id": "bbeaea1b-4192-41fb-bda1-7e2cbe09064e",
+            "benchmark_time": 1868,
+            "client_time": 237820,
+            "cold_start": false,
+            "memory_used": 47.0,
+            "billed_time": 14
+          },
+          {
+            "id": "c1dc25a2-11cf-4c91-96f6-61790926217d",
+            "benchmark_time": 13878,
+            "client_time": 199845,
+            "cold_start": false,
+            "memory_used": 47.0,
+            "billed_time": 16
+          },
+          {
+            "id": "c7735c57-6df6-4934-9ac8-0c3e49c7b757",
+            "benchmark_time": 1733,
+            "client_time": 199339,
+            "cold_start": false,
+            "memory_used": 47.0,
+            "billed_time": 18
+          },
+          {
+            "id": "cc0f2565-71d5-4671-9df6-61145018207e",
+            "benchmark_time": 1809,
+            "client_time": 243126,
+            "cold_start": false,
+            "memory_used": 47.0,
+            "billed_time": 19
+          },
+          {
+            "id": "e34e48a3-677a-41d9-bf5f-54b3d01e4a6a",
+            "benchmark_time": 1743,
+            "client_time": 201180,
+            "cold_start": false,
+            "memory_used": 47.0,
+            "billed_time": 24
+          },
+          {
+            "id": "e97a8e7e-01c1-4124-8473-bf28c1d369e9",
+            "benchmark_time": 1787,
+            "client_time": 199683,
+            "cold_start": false,
+            "memory_used": 47.0,
+            "billed_time": 17
+          },
+          {
+            "id": "f5d669d9-9cd5-4b7d-a7b7-e1e8eb709ab9",
+            "benchmark_time": 1768,
+            "client_time": 240848,
+            "cold_start": false,
+            "memory_used": 47.0,
+            "billed_time": 13
+          },
+          {
+            "id": "f8178fb1-9352-4f15-86f0-33bc722e7ec5",
+            "benchmark_time": 1738,
+            "client_time": 195107,
+            "cold_start": false,
+            "memory_used": 47.0,
+            "billed_time": 13
+          },
+          {
+            "id": "fc6fce74-a49a-4c54-9b23-b2e8b5e345d3",
+            "benchmark_time": 1790,
+            "client_time": 199152,
+            "cold_start": false,
+            "memory_used": 47.0,
+            "billed_time": 18
+          },
+          {
+            "id": "feaa26f1-4444-4b8b-9ee9-d1d41cdc2c45",
+            "benchmark_time": 1748,
+            "client_time": 200029,
+            "cold_start": false,
+            "memory_used": 47.0,
+            "billed_time": 12
+          },
+          {
+            "id": "ff5acee7-1433-4288-9ea6-f5bd4bc7ce71",
+            "benchmark_time": 1779,
+            "client_time": 218672,
+            "cold_start": false,
+            "memory_used": 47.0,
+            "billed_time": 16
+          }
+        ],
+        "cold_starts": [
+          947238
+        ],
+        "warm_starts": [
+          1777,
+          1805,
+          9901,
+          1935,
+          1754,
+          1738,
+          1762,
+          1798,
+          5870,
+          1892,
+          1727,
+          1740,
+          13919,
+          1874,
+          1703,
+          1770,
+          1734,
+          1764,
+          1868,
+          13878,
+          1733,
+          1809,
+          1743,
+          1787,
+          1768,
+          1738,
+          1790,
+          1748,
+          1779
+        ],
+        "metrics": {
+          "count": 30,
+          "cold_start_count": 1,
+          "warm_start_count": 29,
+          "benchmark_time": {
+            "mean": 34511.4,
+            "median": 1778.0,
+            "min": 1703,
+            "max": 947238,
+            "stdev": 172419.593077489
+          },
+          "client_time": {
+            "mean": 268289.9,
+            "median": 199529.0,
+            "min": 195107,
+            "max": 2028522,
+            "stdev": 332785.6733444733
+          },
+          "cold_start_time": {
+            "mean": 947238,
+            "median": 947238,
+            "min": 947238,
+            "max": 947238
+          },
+          "warm_start_time": {
+            "mean": 3038.0689655172414,
+            "median": 1777,
+            "min": 1703,
+            "max": 13919
+          }
+        }
+      },
+      "azure": {
+        "invocations": [
+          {
+            "id": "10592e82-e406-48be-a49e-26a3c69d05ba",
+            "benchmark_time": 36983,
+            "client_time": 473575,
+            "cold_start": true,
+            "memory_used": null,
+            "billed_time": null
+          },
+          {
+            "id": "15ba2d58-f3a0-433a-a8b7-363805b0dbda",
+            "benchmark_time": 2278,
+            "client_time": 273581,
+            "cold_start": false,
+            "memory_used": null,
+            "billed_time": null
+          },
+          {
+            "id": "16fb9158-a461-4bd1-a07b-f88b4f480f61",
+            "benchmark_time": 2240,
+            "client_time": 316481,
+            "cold_start": false,
+            "memory_used": null,
+            "billed_time": null
+          },
+          {
+            "id": "22154509-5bd3-47cd-97d4-a77a321c08e8",
+            "benchmark_time": 2730,
+            "client_time": 271727,
+            "cold_start": false,
+            "memory_used": null,
+            "billed_time": null
+          },
+          {
+            "id": "25dbf2ed-73c0-4308-96d8-7fc250a94eed",
+            "benchmark_time": 1472,
+            "client_time": 278402,
+            "cold_start": false,
+            "memory_used": null,
+            "billed_time": null
+          },
+          {
+            "id": "28851f6d-ac8b-45f5-a0a5-d0e901d4fcd0",
+            "benchmark_time": 1477,
+            "client_time": 264399,
+            "cold_start": false,
+            "memory_used": null,
+            "billed_time": null
+          },
+          {
+            "id": "28b9efe0-cd1e-4619-bcfe-c21ac94c0284",
+            "benchmark_time": 1520,
+            "client_time": 265947,
+            "cold_start": false,
+            "memory_used": null,
+            "billed_time": null
+          },
+          {
+            "id": "2d445343-b79e-4118-b051-e9f9946aee1d",
+            "benchmark_time": 1524,
+            "client_time": 264518,
+            "cold_start": false,
+            "memory_used": null,
+            "billed_time": null
+          },
+          {
+            "id": "323916d3-67f6-4521-86b2-664bf311ec31",
+            "benchmark_time": 7091,
+            "client_time": 294075,
+            "cold_start": false,
+            "memory_used": null,
+            "billed_time": null
+          },
+          {
+            "id": "3c851c9e-1603-4038-8998-7df49fb53946",
+            "benchmark_time": 2775,
+            "client_time": 278971,
+            "cold_start": false,
+            "memory_used": null,
+            "billed_time": null
+          },
+          {
+            "id": "40436184-15e0-4fc7-bb32-c92430e1db72",
+            "benchmark_time": 1737,
+            "client_time": 273318,
+            "cold_start": false,
+            "memory_used": null,
+            "billed_time": null
+          },
+          {
+            "id": "606488a6-a7e2-4fcc-8b04-ffebbf26c222",
+            "benchmark_time": 1712,
+            "client_time": 284094,
+            "cold_start": false,
+            "memory_used": null,
+            "billed_time": null
+          },
+          {
+            "id": "631643cf-060f-4aec-be72-30f134d7c318",
+            "benchmark_time": 2707,
+            "client_time": 267561,
+            "cold_start": false,
+            "memory_used": null,
+            "billed_time": null
+          },
+          {
+            "id": "63598cf2-c9c1-4b39-aca6-105b8d0604f7",
+            "benchmark_time": 3217,
+            "client_time": 287068,
+            "cold_start": false,
+            "memory_used": null,
+            "billed_time": null
+          },
+          {
+            "id": "6494874a-70e7-4988-80e9-c643f979bb75",
+            "benchmark_time": 3249,
+            "client_time": 274033,
+            "cold_start": false,
+            "memory_used": null,
+            "billed_time": null
+          },
+          {
+            "id": "7b062511-483b-48ac-9b9b-b27de11673b3",
+            "benchmark_time": 46857,
+            "client_time": 1757151,
+            "cold_start": true,
+            "memory_used": null,
+            "billed_time": null
+          },
+          {
+            "id": "804967d0-a542-427d-bcb2-8c16c06d733e",
+            "benchmark_time": 2434,
+            "client_time": 287376,
+            "cold_start": false,
+            "memory_used": null,
+            "billed_time": null
+          },
+          {
+            "id": "8b7a8c73-e60a-4edc-8da0-1a022a535e22",
+            "benchmark_time": 1765,
+            "client_time": 280588,
+            "cold_start": false,
+            "memory_used": null,
+            "billed_time": null
+          },
+          {
+            "id": "9021a953-9c1c-4c00-838e-e3a47f297f2e",
+            "benchmark_time": 4028,
+            "client_time": 288960,
+            "cold_start": false,
+            "memory_used": null,
+            "billed_time": null
+          },
+          {
+            "id": "9fbdbbcc-4c9a-4142-aa2b-221984dc6999",
+            "benchmark_time": 2329,
+            "client_time": 285636,
+            "cold_start": false,
+            "memory_used": null,
+            "billed_time": null
+          },
+          {
+            "id": "a37de6b3-cae2-4423-8ad7-9ef2af85315b",
+            "benchmark_time": 5305,
+            "client_time": 275305,
+            "cold_start": false,
+            "memory_used": null,
+            "billed_time": null
+          },
+          {
+            "id": "b2a41906-687d-4f42-870a-54b96b61761c",
+            "benchmark_time": 3320,
+            "client_time": 278800,
+            "cold_start": false,
+            "memory_used": null,
+            "billed_time": null
+          },
+          {
+            "id": "baf3a97a-555c-4b9f-91dc-221f5f6a540d",
+            "benchmark_time": 1752,
+            "client_time": 274306,
+            "cold_start": false,
+            "memory_used": null,
+            "billed_time": null
+          },
+          {
+            "id": "ce493e40-fa86-4e2e-b603-fb46c61f4dbf",
+            "benchmark_time": 2570,
+            "client_time": 280853,
+            "cold_start": false,
+            "memory_used": null,
+            "billed_time": null
+          },
+          {
+            "id": "d33bcfa0-f442-428f-b2f1-8cd28cb838c6",
+            "benchmark_time": 3096,
+            "client_time": 268817,
+            "cold_start": false,
+            "memory_used": null,
+            "billed_time": null
+          },
+          {
+            "id": "ec34883e-2273-41a2-b6ae-9d73b342e1d3",
+            "benchmark_time": 5716,
+            "client_time": 274182,
+            "cold_start": false,
+            "memory_used": null,
+            "billed_time": null
+          },
+          {
+            "id": "f412c03f-18ab-40aa-8ffc-c2f91071f86c",
+            "benchmark_time": 2475,
+            "client_time": 290430,
+            "cold_start": false,
+            "memory_used": null,
+            "billed_time": null
+          },
+          {
+            "id": "fad2c323-5c4b-41cf-915d-b059cc39efcb",
+            "benchmark_time": 2179,
+            "client_time": 278299,
+            "cold_start": false,
+            "memory_used": null,
+            "billed_time": null
+          },
+          {
+            "id": "fb1a2c43-181b-497a-84b2-ae7339eee7a8",
+            "benchmark_time": 2016,
+            "client_time": 286019,
+            "cold_start": false,
+            "memory_used": null,
+            "billed_time": null
+          },
+          {
+            "id": "fbb34639-a72a-4ab3-9f99-77287dbe4969",
+            "benchmark_time": 2653,
+            "client_time": 288032,
+            "cold_start": false,
+            "memory_used": null,
+            "billed_time": null
+          }
+        ],
+        "cold_starts": [
+          36983,
+          46857
+        ],
+        "warm_starts": [
+          2278,
+          2240,
+          2730,
+          1472,
+          1477,
+          1520,
+          1524,
+          7091,
+          2775,
+          1737,
+          1712,
+          2707,
+          3217,
+          3249,
+          2434,
+          1765,
+          4028,
+          2329,
+          5305,
+          3320,
+          1752,
+          2570,
+          3096,
+          5716,
+          2475,
+          2179,
+          2016,
+          2653
+        ],
+        "metrics": {
+          "count": 30,
+          "cold_start_count": 2,
+          "warm_start_count": 28,
+          "benchmark_time": {
+            "mean": 5373.566666666667,
+            "median": 2522.5,
+            "min": 1472,
+            "max": 46857,
+            "stdev": 10102.290360600662
+          },
+          "client_time": {
+            "mean": 335416.8,
+            "median": 278885.5,
+            "min": 264399,
+            "max": 1757151,
+            "stdev": 271047.45492337935
+          },
+          "cold_start_time": {
+            "mean": 41920,
+            "median": 41920.0,
+            "min": 36983,
+            "max": 46857
+          },
+          "warm_start_time": {
+            "mean": 2763.1071428571427,
+            "median": 2454.5,
+            "min": 1472,
+            "max": 7091
+          }
+        }
+      }
+    },
+    "120_uploader": {
+      "aws": null,
+      "azure": null
+    },
+    "210_thumbnailer": {
+      "aws": {
+        "invocations": [
+          {
+            "id": "11adba55-82f0-430c-9945-62fdf600b1ed",
+            "benchmark_time": 577776,
+            "client_time": 820455,
+            "cold_start": false,
+            "memory_used": 98.0,
+            "billed_time": 580,
+            "compute_time": 439059.0,
+            "upload_time": 48611.0,
+            "download_time": 90043.0,
+            "upload_size": 9048,
+            "download_size": 4088937
+          },
+          {
+            "id": "1cc4e327-e1ef-4435-8dd0-28f167e1f023",
+            "benchmark_time": 625439,
+            "client_time": 852702,
+            "cold_start": false,
+            "memory_used": 98.0,
+            "billed_time": 628,
+            "compute_time": 422936.0,
+            "upload_time": 99165.0,
+            "download_time": 103273.0,
+            "upload_size": 9048,
+            "download_size": 4088937
+          },
+          {
+            "id": "3368941e-866f-4195-b7cc-04fd6c72e007",
+            "benchmark_time": 613572,
+            "client_time": 815760,
+            "cold_start": false,
+            "memory_used": 98.0,
+            "billed_time": 616,
+            "compute_time": 403617.0,
+            "upload_time": 76913.0,
+            "download_time": 132978.0,
+            "upload_size": 9048,
+            "download_size": 4088937
+          },
+          {
+            "id": "3ddc2858-68f6-4fdb-8505-86c7701a16d6",
+            "benchmark_time": 584771,
+            "client_time": 815552,
+            "cold_start": false,
+            "memory_used": 98.0,
+            "billed_time": 587,
+            "compute_time": 403250.0,
+            "upload_time": 76645.0,
+            "download_time": 104803.0,
+            "upload_size": 9048,
+            "download_size": 4088937
+          },
+          {
+            "id": "53fe3ca2-b245-44ea-9426-fdc8a81b86cf",
+            "benchmark_time": 3647502,
+            "client_time": 4334790,
+            "cold_start": true,
+            "memory_used": 98.0,
+            "billed_time": 3795,
+            "compute_time": 639759.0,
+            "upload_time": 50070.0,
+            "download_time": 398620.0,
+            "upload_size": 9048,
+            "download_size": 4088937
+          },
+          {
+            "id": "61344b0c-59ef-452b-97c3-7f1c535aa46b",
+            "benchmark_time": 766280,
+            "client_time": 1025165,
+            "cold_start": false,
+            "memory_used": 98.0,
+            "billed_time": 768,
+            "compute_time": 423240.0,
+            "upload_time": 56644.0,
+            "download_time": 286332.0,
+            "upload_size": 9048,
+            "download_size": 4088937
+          },
+          {
+            "id": "629ffead-c470-40a0-b926-c690b1656771",
+            "benchmark_time": 586231,
+            "client_time": 817985,
+            "cold_start": false,
+            "memory_used": 98.0,
+            "billed_time": 589,
+            "compute_time": 422665.0,
+            "upload_time": 58053.0,
+            "download_time": 105452.0,
+            "upload_size": 9048,
+            "download_size": 4088937
+          },
+          {
+            "id": "7f1cfa02-b996-4cae-85c4-6064fe35b6d1",
+            "benchmark_time": 603566,
+            "client_time": 783321,
+            "cold_start": false,
+            "memory_used": 98.0,
+            "billed_time": 607,
+            "compute_time": 403043.0,
+            "upload_time": 74695.0,
+            "download_time": 125762.0,
+            "upload_size": 9048,
+            "download_size": 4088937
+          },
+          {
+            "id": "a47d56d6-72ba-4f87-aa5b-98ef85d0be1d",
+            "benchmark_time": 623417,
+            "client_time": 822512,
+            "cold_start": false,
+            "memory_used": 98.0,
+            "billed_time": 626,
+            "compute_time": 423214.0,
+            "upload_time": 96546.0,
+            "download_time": 103594.0,
+            "upload_size": 9048,
+            "download_size": 4088937
+          },
+          {
+            "id": "ae7a386f-29ce-4a99-9a4f-93f5bdeccb98",
+            "benchmark_time": 619545,
+            "client_time": 866807,
+            "cold_start": false,
+            "memory_used": 98.0,
+            "billed_time": 622,
+            "compute_time": 402910.0,
+            "upload_time": 86133.0,
+            "download_time": 130440.0,
+            "upload_size": 9048,
+            "download_size": 4088937
+          },
+          {
+            "id": "aefc6ec9-c2d7-4e0d-9151-41c8bd161c54",
+            "benchmark_time": 650174,
+            "client_time": 917845,
+            "cold_start": false,
+            "memory_used": 98.0,
+            "billed_time": 652,
+            "compute_time": 423556.0,
+            "upload_time": 124227.0,
+            "download_time": 102327.0,
+            "upload_size": 9048,
+            "download_size": 4088937
+          },
+          {
+            "id": "b23623f9-96b3-4680-b5a0-e2f9fbd2bbd8",
+            "benchmark_time": 580692,
+            "client_time": 767602,
+            "cold_start": false,
+            "memory_used": 98.0,
+            "billed_time": 583,
+            "compute_time": 403460.0,
+            "upload_time": 76377.0,
+            "download_time": 100794.0,
+            "upload_size": 9048,
+            "download_size": 4088937
+          },
+          {
+            "id": "c66701be-9871-4a6c-885a-834e1aaa27aa",
+            "benchmark_time": 594745,
+            "client_time": 818445,
+            "cold_start": false,
+            "memory_used": 98.0,
+            "billed_time": 597,
+            "compute_time": 439545.0,
+            "upload_time": 48036.0,
+            "download_time": 107100.0,
+            "upload_size": 9048,
+            "download_size": 4088937
+          },
+          {
+            "id": "dbdbd7ac-808d-48fa-9d29-1e1f1ee6a9f4",
+            "benchmark_time": 593508,
+            "client_time": 818914,
+            "cold_start": false,
+            "memory_used": 98.0,
+            "billed_time": 596,
+            "compute_time": 422372.0,
+            "upload_time": 59531.0,
+            "download_time": 111542.0,
+            "upload_size": 9048,
+            "download_size": 4088937
+          },
+          {
+            "id": "fe1745cd-e4a3-439f-b524-b7a663871d6f",
+            "benchmark_time": 621128,
+            "client_time": 912088,
+            "cold_start": false,
+            "memory_used": 98.0,
+            "billed_time": 623,
+            "compute_time": 441079.0,
+            "upload_time": 59028.0,
+            "download_time": 120958.0,
+            "upload_size": 9048,
+            "download_size": 4088937
+          }
+        ],
+        "cold_starts": [
+          3647502
+        ],
+        "warm_starts": [
+          577776,
+          625439,
+          613572,
+          584771,
+          766280,
+          586231,
+          603566,
+          623417,
+          619545,
+          650174,
+          580692,
+          594745,
+          593508,
+          621128
+        ],
+        "metrics": {
+          "count": 15,
+          "cold_start_count": 1,
+          "warm_start_count": 14,
+          "benchmark_time": {
+            "mean": 819223.0666666667,
+            "median": 613572,
+            "min": 577776,
+            "max": 3647502,
+            "stdev": 783769.8460366745
+          },
+          "client_time": {
+            "mean": 1079329.5333333334,
+            "median": 820455,
+            "min": 767602,
+            "max": 4334790,
+            "stdev": 902873.2435487646
+          },
+          "cold_start_time": {
+            "mean": 3647502,
+            "median": 3647502,
+            "min": 3647502,
+            "max": 3647502
+          },
+          "warm_start_time": {
+            "mean": 617203.1428571428,
+            "median": 608569.0,
+            "min": 577776,
+            "max": 766280
+          }
+        }
+      },
+      "azure": {
+        "invocations": [
+          {
+            "id": "19f9939d-78b7-4edf-a6c5-5535b2a82f2d",
+            "benchmark_time": 106535,
+            "client_time": 457275,
+            "cold_start": false,
+            "memory_used": null,
+            "billed_time": null,
+            "compute_time": 48213.0,
+            "upload_time": 10754.0,
+            "download_time": 47368.0,
+            "upload_size": 9048,
+            "download_size": 4088937
+          },
+          {
+            "id": "2ee8d284-059e-426b-b185-cf2feb21280d",
+            "benchmark_time": 112690,
+            "client_time": 407727,
+            "cold_start": false,
+            "memory_used": null,
+            "billed_time": null,
+            "compute_time": 46827.0,
+            "upload_time": 12210.0,
+            "download_time": 53439.0,
+            "upload_size": 9048,
+            "download_size": 4088937
+          },
+          {
+            "id": "3ea62aa0-4aee-4bf4-8092-5d909e1953a7",
+            "benchmark_time": 120409,
+            "client_time": 408548,
+            "cold_start": false,
+            "memory_used": null,
+            "billed_time": null,
+            "compute_time": 49047.0,
+            "upload_time": 18796.0,
+            "download_time": 52366.0,
+            "upload_size": 9048,
+            "download_size": 4088937
+          },
+          {
+            "id": "47faa2f4-e82d-4f46-a881-ae4df69575ee",
+            "benchmark_time": 163588,
+            "client_time": 437083,
+            "cold_start": false,
+            "memory_used": null,
+            "billed_time": null,
+            "compute_time": 61698.0,
+            "upload_time": 36289.0,
+            "download_time": 65380.0,
+            "upload_size": 9048,
+            "download_size": 4088937
+          },
+          {
+            "id": "4c9e794b-7767-47de-b5b5-d77db7decde4",
+            "benchmark_time": 141290,
+            "client_time": 449692,
+            "cold_start": false,
+            "memory_used": null,
+            "billed_time": null,
+            "compute_time": 57713.0,
+            "upload_time": 12607.0,
+            "download_time": 70636.0,
+            "upload_size": 9048,
+            "download_size": 4088937
+          },
+          {
+            "id": "4d2bd0d4-0da0-49e2-8f6f-6389c5d616c2",
+            "benchmark_time": 136640,
+            "client_time": 405569,
+            "cold_start": false,
+            "memory_used": null,
+            "billed_time": null,
+            "compute_time": 47439.0,
+            "upload_time": 10601.0,
+            "download_time": 78328.0,
+            "upload_size": 9048,
+            "download_size": 4088937
+          },
+          {
+            "id": "5d87c18c-d548-4c04-bd95-182470d53693",
+            "benchmark_time": 119770,
+            "client_time": 418500,
+            "cold_start": false,
+            "memory_used": null,
+            "billed_time": null,
+            "compute_time": 48043.0,
+            "upload_time": 18802.0,
+            "download_time": 52556.0,
+            "upload_size": 9048,
+            "download_size": 4088937
+          },
+          {
+            "id": "5f23703c-e13a-47de-8a9f-ab174190cad7",
+            "benchmark_time": 826783,
+            "client_time": 3117747,
+            "cold_start": true,
+            "memory_used": null,
+            "billed_time": null,
+            "compute_time": 67349.0,
+            "upload_time": 12030.0,
+            "download_time": 119121.0,
+            "upload_size": 9048,
+            "download_size": 4088937
+          },
+          {
+            "id": "6fce3540-c403-4437-b83a-1ee189f49b94",
+            "benchmark_time": 136023,
+            "client_time": 417923,
+            "cold_start": false,
+            "memory_used": null,
+            "billed_time": null,
+            "compute_time": 50393.0,
+            "upload_time": 11836.0,
+            "download_time": 73511.0,
+            "upload_size": 9048,
+            "download_size": 4088937
+          },
+          {
+            "id": "7690e6b0-1ee3-4017-b0e9-97c691d64dc3",
+            "benchmark_time": 750323,
+            "client_time": 1170804,
+            "cold_start": true,
+            "memory_used": null,
+            "billed_time": null,
+            "compute_time": 60189.0,
+            "upload_time": 15953.0,
+            "download_time": 131713.0,
+            "upload_size": 9048,
+            "download_size": 4088937
+          },
+          {
+            "id": "8c81546b-4a63-4541-9bd2-f66e07c730f8",
+            "benchmark_time": 135794,
+            "client_time": 432030,
+            "cold_start": false,
+            "memory_used": null,
+            "billed_time": null,
+            "compute_time": 47460.0,
+            "upload_time": 12027.0,
+            "download_time": 76102.0,
+            "upload_size": 9048,
+            "download_size": 4088937
+          },
+          {
+            "id": "9985dbdb-5987-49cc-8d01-2431cce3cea3",
+            "benchmark_time": 113291,
+            "client_time": 432964,
+            "cold_start": false,
+            "memory_used": null,
+            "billed_time": null,
+            "compute_time": 48228.0,
+            "upload_time": 11183.0,
+            "download_time": 53468.0,
+            "upload_size": 9048,
+            "download_size": 4088937
+          },
+          {
+            "id": "c614e583-4228-434e-97a3-5dad887f9389",
+            "benchmark_time": 112839,
+            "client_time": 393926,
+            "cold_start": false,
+            "memory_used": null,
+            "billed_time": null,
+            "compute_time": 49559.0,
+            "upload_time": 11718.0,
+            "download_time": 51518.0,
+            "upload_size": 9048,
+            "download_size": 4088937
+          },
+          {
+            "id": "d1a52c96-c8ce-4e3d-afac-7c8af9367f15",
+            "benchmark_time": 119385,
+            "client_time": 405069,
+            "cold_start": false,
+            "memory_used": null,
+            "billed_time": null,
+            "compute_time": 50103.0,
+            "upload_time": 13341.0,
+            "download_time": 55702.0,
+            "upload_size": 9048,
+            "download_size": 4088937
+          },
+          {
+            "id": "e2acfee3-8154-435e-b3e9-162d9e321a9a",
+            "benchmark_time": 139307,
+            "client_time": 431541,
+            "cold_start": false,
+            "memory_used": null,
+            "billed_time": null,
+            "compute_time": 48717.0,
+            "upload_time": 12212.0,
+            "download_time": 78184.0,
+            "upload_size": 9048,
+            "download_size": 4088937
+          }
+        ],
+        "cold_starts": [
+          826783,
+          750323
+        ],
+        "warm_starts": [
+          106535,
+          112690,
+          120409,
+          163588,
+          141290,
+          136640,
+          119770,
+          136023,
+          135794,
+          113291,
+          112839,
+          119385,
+          139307
+        ],
+        "metrics": {
+          "count": 15,
+          "cold_start_count": 2,
+          "warm_start_count": 13,
+          "benchmark_time": {
+            "mean": 215644.46666666667,
+            "median": 135794,
+            "min": 106535,
+            "max": 826783,
+            "stdev": 233524.54434319155
+          },
+          "client_time": {
+            "mean": 652426.5333333333,
+            "median": 431541,
+            "min": 393926,
+            "max": 3117747,
+            "stdev": 708903.6985011098
+          },
+          "cold_start_time": {
+            "mean": 788553,
+            "median": 788553.0,
+            "min": 750323,
+            "max": 826783
+          },
+          "warm_start_time": {
+            "mean": 127504.69230769231,
+            "median": 120409,
+            "min": 106535,
+            "max": 163588
+          }
+        }
+      }
+    },
+    "311_compression": {
+      "aws": {
+        "invocations": [
+          {
+            "id": "00eb0bce-a0fd-4994-b113-1b373de1b1f9",
+            "benchmark_time": 7016456,
+            "client_time": 7268734,
+            "cold_start": false,
+            "memory_used": 234.0,
+            "billed_time": 7020,
+            "compute_time": 3160568.0,
+            "upload_time": 894896.0,
+            "download_time": 2960339.0,
+            "upload_size": 9326901,
+            "download_size": 10063841
+          },
+          {
+            "id": "03f5ecdc-b846-4a6b-90cb-33df15c50a81",
+            "benchmark_time": 7438027,
+            "client_time": 7678622,
+            "cold_start": false,
+            "memory_used": 130.0,
+            "billed_time": 7440,
+            "compute_time": 3241157.0,
+            "upload_time": 875676.0,
+            "download_time": 3320556.0,
+            "upload_size": 9326901,
+            "download_size": 10063841
+          },
+          {
+            "id": "05827aa9-cd1c-4fbe-a19b-6be7f0ea6a97",
+            "benchmark_time": 6757464,
+            "client_time": 6961306,
+            "cold_start": false,
+            "memory_used": 229.0,
+            "billed_time": 6760,
+            "compute_time": 3160674.0,
+            "upload_time": 729460.0,
+            "download_time": 2866718.0,
+            "upload_size": 9326901,
+            "download_size": 10063841
+          },
+          {
+            "id": "0df41630-3431-456e-b311-6442e410267e",
+            "benchmark_time": 7140293,
+            "client_time": 7323553,
+            "cold_start": false,
+            "memory_used": 227.0,
+            "billed_time": 7143,
+            "compute_time": 3259449.0,
+            "upload_time": 821934.0,
+            "download_time": 3058225.0,
+            "upload_size": 9326901,
+            "download_size": 10063841
+          },
+          {
+            "id": "16e7919f-f86f-4317-9892-6024e79bb28c",
+            "benchmark_time": 10987325,
+            "client_time": 11537977,
+            "cold_start": true,
+            "memory_used": 106.0,
+            "billed_time": 11138,
+            "compute_time": 3240603.0,
+            "upload_time": 838254.0,
+            "download_time": 4418082.0,
+            "upload_size": 9326901,
+            "download_size": 10063841
+          },
+          {
+            "id": "20855ad5-6eba-4151-9290-ce03738724e9",
+            "benchmark_time": 6727140,
+            "client_time": 6961794,
+            "cold_start": false,
+            "memory_used": 229.0,
+            "billed_time": 6730,
+            "compute_time": 3172316.0,
+            "upload_time": 653832.0,
+            "download_time": 2900402.0,
+            "upload_size": 9326901,
+            "download_size": 10063841
+          },
+          {
+            "id": "5bc739db-e6a5-41a9-a67a-5ef870e81934",
+            "benchmark_time": 6665796,
+            "client_time": 6947692,
+            "cold_start": false,
+            "memory_used": 232.0,
+            "billed_time": 6668,
+            "compute_time": 3161000.0,
+            "upload_time": 569501.0,
+            "download_time": 2934686.0,
+            "upload_size": 9326901,
+            "download_size": 10063841
+          },
+          {
+            "id": "62f25fac-29c3-4a79-a085-bfbfc613d01f",
+            "benchmark_time": 6896605,
+            "client_time": 7167642,
+            "cold_start": false,
+            "memory_used": 234.0,
+            "billed_time": 6899,
+            "compute_time": 3160564.0,
+            "upload_time": 724284.0,
+            "download_time": 3011102.0,
+            "upload_size": 9326901,
+            "download_size": 10063841
+          },
+          {
+            "id": "6f4e7275-a640-4c20-b662-8ba1467e6849",
+            "benchmark_time": 6979487,
+            "client_time": 7260616,
+            "cold_start": false,
+            "memory_used": 234.0,
+            "billed_time": 6982,
+            "compute_time": 3199528.0,
+            "upload_time": 720604.0,
+            "download_time": 3058689.0,
+            "upload_size": 9326901,
+            "download_size": 10063841
+          },
+          {
+            "id": "6fe232bd-8ad4-4ac2-ae47-0d08cb4a92a8",
+            "benchmark_time": 7127572,
+            "client_time": 7419252,
+            "cold_start": false,
+            "memory_used": 229.0,
+            "billed_time": 7130,
+            "compute_time": 3181319.0,
+            "upload_time": 870909.0,
+            "download_time": 3074690.0,
+            "upload_size": 9326901,
+            "download_size": 10063841
+          },
+          {
+            "id": "ab521dac-e10e-4c14-af62-9db250d2dc21",
+            "benchmark_time": 7345473,
+            "client_time": 7562118,
+            "cold_start": false,
+            "memory_used": 189.0,
+            "billed_time": 7348,
+            "compute_time": 3261446.0,
+            "upload_time": 770954.0,
+            "download_time": 3311896.0,
+            "upload_size": 9326901,
+            "download_size": 10063841
+          },
+          {
+            "id": "cacc7184-9cf7-4252-8e55-8702f8be7638",
+            "benchmark_time": 6889992,
+            "client_time": 7189562,
+            "cold_start": false,
+            "memory_used": 232.0,
+            "billed_time": 6892,
+            "compute_time": 3141661.0,
+            "upload_time": 757930.0,
+            "download_time": 2989702.0,
+            "upload_size": 9326901,
+            "download_size": 10063841
+          },
+          {
+            "id": "eb8e4586-e166-4665-a853-78469fe214a8",
+            "benchmark_time": 7081160,
+            "client_time": 7269588,
+            "cold_start": false,
+            "memory_used": 210.0,
+            "billed_time": 7084,
+            "compute_time": 3261659.0,
+            "upload_time": 805170.0,
+            "download_time": 3013675.0,
+            "upload_size": 9326901,
+            "download_size": 10063841
+          },
+          {
+            "id": "f5f19005-87c5-4926-82bf-272cd45ae3d4",
+            "benchmark_time": 6907851,
+            "client_time": 7171312,
+            "cold_start": false,
+            "memory_used": 150.0,
+            "billed_time": 6910,
+            "compute_time": 3259550.0,
+            "upload_time": 628751.0,
+            "download_time": 3018917.0,
+            "upload_size": 9326901,
+            "download_size": 10063841
+          },
+          {
+            "id": "fbd8cb96-c4f8-490e-9087-f0a68afa2242",
+            "benchmark_time": 7020502,
+            "client_time": 7280127,
+            "cold_start": false,
+            "memory_used": 169.0,
+            "billed_time": 7023,
+            "compute_time": 3241973.0,
+            "upload_time": 642778.0,
+            "download_time": 3135123.0,
+            "upload_size": 9326901,
+            "download_size": 10063841
+          }
+        ],
+        "cold_starts": [
+          10987325
+        ],
+        "warm_starts": [
+          7016456,
+          7438027,
+          6757464,
+          7140293,
+          6727140,
+          6665796,
+          6896605,
+          6979487,
+          7127572,
+          7345473,
+          6889992,
+          7081160,
+          6907851,
+          7020502
+        ],
+        "metrics": {
+          "count": 15,
+          "cold_start_count": 1,
+          "warm_start_count": 14,
+          "benchmark_time": {
+            "mean": 7265409.533333333,
+            "median": 7016456,
+            "min": 6665796,
+            "max": 10987325,
+            "stdev": 1051300.3691640904
+          },
+          "client_time": {
+            "mean": 7533326.333333333,
+            "median": 7268734,
+            "min": 6947692,
+            "max": 11537977,
+            "stdev": 1126752.912628057
+          },
+          "cold_start_time": {
+            "mean": 10987325,
+            "median": 10987325,
+            "min": 10987325,
+            "max": 10987325
+          },
+          "warm_start_time": {
+            "mean": 6999558.428571428,
+            "median": 6997971.5,
+            "min": 6665796,
+            "max": 7438027
+          }
+        }
+      },
+      "azure": {
+        "invocations": [
+          {
+            "id": "12e76c12-99d8-46a7-8b0c-369c014004e1",
+            "benchmark_time": 1533684,
+            "client_time": 1824997,
+            "cold_start": false,
+            "memory_used": null,
+            "billed_time": null,
+            "compute_time": 392648.0,
+            "upload_time": 180799.0,
+            "download_time": 958781.0,
+            "upload_size": 9326901,
+            "download_size": 10063841
+          },
+          {
+            "id": "38f461d1-7278-4587-9851-5d3dffa8b8f2",
+            "benchmark_time": 1484526,
+            "client_time": 1838797,
+            "cold_start": false,
+            "memory_used": null,
+            "billed_time": null,
+            "compute_time": 363247.0,
+            "upload_time": 202878.0,
+            "download_time": 917923.0,
+            "upload_size": 9326901,
+            "download_size": 10063841
+          },
+          {
+            "id": "4141681e-26ff-499b-b3ab-2843b8479e3b",
+            "benchmark_time": 1483386,
+            "client_time": 1782828,
+            "cold_start": false,
+            "memory_used": null,
+            "billed_time": null,
+            "compute_time": 362847.0,
+            "upload_time": 152512.0,
+            "download_time": 967519.0,
+            "upload_size": 9326901,
+            "download_size": 10063841
+          },
+          {
+            "id": "415dae6e-6a19-42a6-afb0-6ff2527e5569",
+            "benchmark_time": 1572328,
+            "client_time": 1941332,
+            "cold_start": false,
+            "memory_used": null,
+            "billed_time": null,
+            "compute_time": 353937.0,
+            "upload_time": 241755.0,
+            "download_time": 976168.0,
+            "upload_size": 9326901,
+            "download_size": 10063841
+          },
+          {
+            "id": "56ccf91e-b39b-4664-871d-d9b05b38dcb4",
+            "benchmark_time": 1900571,
+            "client_time": 2385281,
+            "cold_start": true,
+            "memory_used": null,
+            "billed_time": null,
+            "compute_time": 381922.0,
+            "upload_time": 158845.0,
+            "download_time": 814762.0,
+            "upload_size": 9326901,
+            "download_size": 10063841
+          },
+          {
+            "id": "6b6ee85d-4e1b-4909-ace8-abf5b71c6441",
+            "benchmark_time": 1404904,
+            "client_time": 1683863,
+            "cold_start": false,
+            "memory_used": null,
+            "billed_time": null,
+            "compute_time": 344426.0,
+            "upload_time": 209913.0,
+            "download_time": 850107.0,
+            "upload_size": 9326901,
+            "download_size": 10063841
+          },
+          {
+            "id": "78429d76-3acc-4be0-8828-3fcbc437f84d",
+            "benchmark_time": 1258874,
+            "client_time": 1588620,
+            "cold_start": false,
+            "memory_used": null,
+            "billed_time": null,
+            "compute_time": 367558.0,
+            "upload_time": 145102.0,
+            "download_time": 745640.0,
+            "upload_size": 9326901,
+            "download_size": 10063841
+          },
+          {
+            "id": "9b798b99-0f71-43fd-a054-571e2de1a02a",
+            "benchmark_time": 1426339,
+            "client_time": 1736029,
+            "cold_start": false,
+            "memory_used": null,
+            "billed_time": null,
+            "compute_time": 401051.0,
+            "upload_time": 192749.0,
+            "download_time": 831873.0,
+            "upload_size": 9326901,
+            "download_size": 10063841
+          },
+          {
+            "id": "ba52e0fe-81c6-4cad-8523-a3598ad2c09a",
+            "benchmark_time": 1348826,
+            "client_time": 1634608,
+            "cold_start": false,
+            "memory_used": null,
+            "billed_time": null,
+            "compute_time": 347863.0,
+            "upload_time": 192150.0,
+            "download_time": 807951.0,
+            "upload_size": 9326901,
+            "download_size": 10063841
+          },
+          {
+            "id": "be6e34b6-59d5-4872-b4b6-98a513f801ae",
+            "benchmark_time": 1493413,
+            "client_time": 1792095,
+            "cold_start": false,
+            "memory_used": null,
+            "billed_time": null,
+            "compute_time": 368337.0,
+            "upload_time": 146307.0,
+            "download_time": 978264.0,
+            "upload_size": 9326901,
+            "download_size": 10063841
+          },
+          {
+            "id": "c5d17b39-a317-43c7-8342-8c32430a8432",
+            "benchmark_time": 1391862,
+            "client_time": 1738813,
+            "cold_start": false,
+            "memory_used": null,
+            "billed_time": null,
+            "compute_time": 373943.0,
+            "upload_time": 169531.0,
+            "download_time": 847917.0,
+            "upload_size": 9326901,
+            "download_size": 10063841
+          },
+          {
+            "id": "dd7a74d9-4575-4545-bf58-58a8e9d5bfe6",
+            "benchmark_time": 2305393,
+            "client_time": 5013961,
+            "cold_start": true,
+            "memory_used": null,
+            "billed_time": null,
+            "compute_time": 365869.0,
+            "upload_time": 267354.0,
+            "download_time": 1129196.0,
+            "upload_size": 9326901,
+            "download_size": 10063841
+          },
+          {
+            "id": "e25ff5dd-d6fb-47f4-b07d-e3d9f32ae8ac",
+            "benchmark_time": 1670179,
+            "client_time": 2044162,
+            "cold_start": false,
+            "memory_used": null,
+            "billed_time": null,
+            "compute_time": 482641.0,
+            "upload_time": 161450.0,
+            "download_time": 1025270.0,
+            "upload_size": 9326901,
+            "download_size": 10063841
+          },
+          {
+            "id": "f4bbe458-20d9-450f-8e58-bc1f1cf0ab47",
+            "benchmark_time": 1417261,
+            "client_time": 1752450,
+            "cold_start": false,
+            "memory_used": null,
+            "billed_time": null,
+            "compute_time": 375802.0,
+            "upload_time": 126237.0,
+            "download_time": 914672.0,
+            "upload_size": 9326901,
+            "download_size": 10063841
+          },
+          {
+            "id": "f6846f57-b0ec-428c-8cb1-d9cc3add3d64",
+            "benchmark_time": 1230203,
+            "client_time": 1534310,
+            "cold_start": false,
+            "memory_used": null,
+            "billed_time": null,
+            "compute_time": 353775.0,
+            "upload_time": 143764.0,
+            "download_time": 732146.0,
+            "upload_size": 9326901,
+            "download_size": 10063841
+          }
+        ],
+        "cold_starts": [
+          1900571,
+          2305393
+        ],
+        "warm_starts": [
+          1533684,
+          1484526,
+          1483386,
+          1572328,
+          1404904,
+          1258874,
+          1426339,
+          1348826,
+          1493413,
+          1391862,
+          1670179,
+          1417261,
+          1230203
+        ],
+        "metrics": {
+          "count": 15,
+          "cold_start_count": 2,
+          "warm_start_count": 13,
+          "benchmark_time": {
+            "mean": 1528116.6,
+            "median": 1483386,
+            "min": 1230203,
+            "max": 2305393,
+            "stdev": 269912.29699155455
+          },
+          "client_time": {
+            "mean": 2019476.4,
+            "median": 1782828,
+            "min": 1534310,
+            "max": 5013961,
+            "stdev": 853473.5824711355
+          },
+          "cold_start_time": {
+            "mean": 2102982,
+            "median": 2102982.0,
+            "min": 1900571,
+            "max": 2305393
+          },
+          "warm_start_time": {
+            "mean": 1439675.7692307692,
+            "median": 1426339,
+            "min": 1230203,
+            "max": 1670179
+          }
+        }
+      }
+    }
+  },
+  "workflow_benchmarks": {
+    "620_func_invo": {
+      "aws": null,
+      "azure": null
+    },
+    "630_parallel_sleep": {
+      "aws": null,
+      "azure": null
+    },
+    "660_map_reduce": {
+      "aws": null,
+      "azure": {
+        "invocations": [
+          {
+            "id": "0058f594",
+            "benchmark_time": 25350,
+            "client_time": 4661062,
+            "failure": false
+          },
+          {
+            "id": "115d0ebd",
+            "benchmark_time": 22495,
+            "client_time": 29145101,
+            "failure": false
+          },
+          {
+            "id": "4e4f391f",
+            "benchmark_time": 23397,
+            "client_time": 4677180,
+            "failure": false
+          },
+          {
+            "id": "5a34387e",
+            "benchmark_time": 34985,
+            "client_time": 4681529,
+            "failure": false
+          },
+          {
+            "id": "5ae28ae7",
+            "benchmark_time": 30238,
+            "client_time": 4711775,
+            "failure": false
+          },
+          {
+            "id": "693b1d26",
+            "benchmark_time": 21740,
+            "client_time": 4698076,
+            "failure": false
+          },
+          {
+            "id": "77369265",
+            "benchmark_time": 22985,
+            "client_time": 4675257,
+            "failure": false
+          },
+          {
+            "id": "bf132eb3",
+            "benchmark_time": 19278,
+            "client_time": 4663879,
+            "failure": false
+          },
+          {
+            "id": "c2615959",
+            "benchmark_time": 23217,
+            "client_time": 4696257,
+            "failure": false
+          },
+          {
+            "id": "d06e512e",
+            "benchmark_time": 88705,
+            "client_time": 21276361,
+            "failure": false
+          },
+          {
+            "id": "d3fd950e",
+            "benchmark_time": 21774,
+            "client_time": 29227186,
+            "failure": false
+          },
+          {
+            "id": "d867784c",
+            "benchmark_time": 17372,
+            "client_time": 4683931,
+            "failure": false
+          },
+          {
+            "id": "e2b75194",
+            "benchmark_time": 137589,
+            "client_time": 31724482,
+            "failure": false
+          },
+          {
+            "id": "e4c49d71",
+            "benchmark_time": 41925,
+            "client_time": 21003265,
+            "failure": false
+          },
+          {
+            "id": "e93fb365",
+            "benchmark_time": 28127,
+            "client_time": 16933022,
+            "failure": false
+          }
+        ],
+        "metrics": {
+          "count": 15,
+          "success_count": 15,
+          "benchmark_time": {
+            "mean": 37278.46666666667,
+            "median": 23397,
+            "min": 17372,
+            "max": 137589,
+            "stdev": 32759.664011155695
+          },
+          "client_time": {
+            "mean": 12763890.866666667,
+            "median": 4698076,
+            "min": 4661062,
+            "max": 31724482,
+            "stdev": 10837425.680204837
+          }
+        }
+      }
+    }
+  },
+  "summary": {
+    "total_function_benchmarks": 3,
+    "total_workflow_benchmarks": 1,
+    "total_invocations": 135,
+    "date_generated": "2025-12-13"
+  }
+}

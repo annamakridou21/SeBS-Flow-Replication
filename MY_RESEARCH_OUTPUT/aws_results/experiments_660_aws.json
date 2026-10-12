@@ -1,0 +1,773 @@
+{
+  "_invocations": {
+    "660_map_reduce_python_3_8": {
+      "00b3f855": {
+        "billing": {
+          "_billed_time": null,
+          "_gb_seconds": 0,
+          "_memory": null
+        },
+        "output": {
+          "list": [
+            {
+              "count": 50,
+              "word": "horse"
+            },
+            {
+              "count": 50,
+              "word": "cat"
+            },
+            {
+              "count": 50,
+              "word": "bird"
+            },
+            {
+              "count": 50,
+              "word": "pig"
+            },
+            {
+              "count": 50,
+              "word": "dog"
+            }
+          ]
+        },
+        "provider_times": {
+          "execution": 0,
+          "initialization": 0
+        },
+        "request_id": "00b3f855",
+        "stats": {
+          "cold_start": false,
+          "failure": false,
+          "memory_used": null
+        },
+        "times": {
+          "benchmark": 0,
+          "client": 687382,
+          "client_begin": "2025-12-15 17:45:09.316820",
+          "client_end": "2025-12-15 17:45:10.004202",
+          "initialization": 0
+        }
+      },
+      "0e24ece2": {
+        "billing": {
+          "_billed_time": null,
+          "_gb_seconds": 0,
+          "_memory": null
+        },
+        "output": {
+          "list": [
+            {
+              "count": 50,
+              "word": "horse"
+            },
+            {
+              "count": 50,
+              "word": "cat"
+            },
+            {
+              "count": 50,
+              "word": "bird"
+            },
+            {
+              "count": 50,
+              "word": "pig"
+            },
+            {
+              "count": 50,
+              "word": "dog"
+            }
+          ]
+        },
+        "provider_times": {
+          "execution": 0,
+          "initialization": 0
+        },
+        "request_id": "0e24ece2",
+        "stats": {
+          "cold_start": false,
+          "failure": false,
+          "memory_used": null
+        },
+        "times": {
+          "benchmark": 0,
+          "client": 692942,
+          "client_begin": "2025-12-15 17:43:59.780031",
+          "client_end": "2025-12-15 17:44:00.472973",
+          "initialization": 0
+        }
+      },
+      "1a773cc5": {
+        "billing": {
+          "_billed_time": null,
+          "_gb_seconds": 0,
+          "_memory": null
+        },
+        "output": {
+          "list": [
+            {
+              "count": 50,
+              "word": "horse"
+            },
+            {
+              "count": 50,
+              "word": "cat"
+            },
+            {
+              "count": 50,
+              "word": "bird"
+            },
+            {
+              "count": 50,
+              "word": "pig"
+            },
+            {
+              "count": 50,
+              "word": "dog"
+            }
+          ]
+        },
+        "provider_times": {
+          "execution": 0,
+          "initialization": 0
+        },
+        "request_id": "1a773cc5",
+        "stats": {
+          "cold_start": false,
+          "failure": false,
+          "memory_used": null
+        },
+        "times": {
+          "benchmark": 0,
+          "client": 681206,
+          "client_begin": "2025-12-15 17:44:19.583023",
+          "client_end": "2025-12-15 17:44:20.264229",
+          "initialization": 0
+        }
+      },
+      "1f1bcabb": {
+        "billing": {
+          "_billed_time": null,
+          "_gb_seconds": 0,
+          "_memory": null
+        },
+        "output": {
+          "list": [
+            {
+              "count": 50,
+              "word": "horse"
+            },
+            {
+              "count": 50,
+              "word": "cat"
+            },
+            {
+              "count": 50,
+              "word": "bird"
+            },
+            {
+              "count": 50,
+              "word": "pig"
+            },
+            {
+              "count": 50,
+              "word": "dog"
+            }
+          ]
+        },
+        "provider_times": {
+          "execution": 0,
+          "initialization": 0
+        },
+        "request_id": "1f1bcabb",
+        "stats": {
+          "cold_start": false,
+          "failure": false,
+          "memory_used": null
+        },
+        "times": {
+          "benchmark": 0,
+          "client": 680627,
+          "client_begin": "2025-12-15 17:44:06.375130",
+          "client_end": "2025-12-15 17:44:07.055757",
+          "initialization": 0
+        }
+      },
+      "2561bee4": {
+        "billing": {
+          "_billed_time": null,
+          "_gb_seconds": 0,
+          "_memory": null
+        },
+        "output": {
+          "list": [
+            {
+              "count": 50,
+              "word": "horse"
+            },
+            {
+              "count": 50,
+              "word": "cat"
+            },
+            {
+              "count": 50,
+              "word": "bird"
+            },
+            {
+              "count": 50,
+              "word": "pig"
+            },
+            {
+              "count": 50,
+              "word": "dog"
+            }
+          ]
+        },
+        "provider_times": {
+          "execution": 0,
+          "initialization": 0
+        },
+        "request_id": "2561bee4",
+        "stats": {
+          "cold_start": false,
+          "failure": false,
+          "memory_used": null
+        },
+        "times": {
+          "benchmark": 0,
+          "client": 1145156,
+          "client_begin": "2025-12-15 17:45:22.624400",
+          "client_end": "2025-12-15 17:45:23.769556",
+          "initialization": 0
+        }
+      },
+      "2eb1f2d4": {
+        "billing": {
+          "_billed_time": null,
+          "_gb_seconds": 0,
+          "_memory": null
+        },
+        "output": {
+          "list": [
+            {
+              "count": 50,
+              "word": "horse"
+            },
+            {
+              "count": 50,
+              "word": "cat"
+            },
+            {
+              "count": 50,
+              "word": "bird"
+            },
+            {
+              "count": 50,
+              "word": "pig"
+            },
+            {
+              "count": 50,
+              "word": "dog"
+            }
+          ]
+        },
+        "provider_times": {
+          "execution": 0,
+          "initialization": 0
+        },
+        "request_id": "2eb1f2d4",
+        "stats": {
+          "cold_start": false,
+          "failure": false,
+          "memory_used": null
+        },
+        "times": {
+          "benchmark": 0,
+          "client": 676777,
+          "client_begin": "2025-12-15 17:44:12.886192",
+          "client_end": "2025-12-15 17:44:13.562969",
+          "initialization": 0
+        }
+      },
+      "461d6f9e": {
+        "billing": {
+          "_billed_time": null,
+          "_gb_seconds": 0,
+          "_memory": null
+        },
+        "output": {
+          "list": [
+            {
+              "count": 50,
+              "word": "horse"
+            },
+            {
+              "count": 50,
+              "word": "cat"
+            },
+            {
+              "count": 50,
+              "word": "bird"
+            },
+            {
+              "count": 50,
+              "word": "pig"
+            },
+            {
+              "count": 50,
+              "word": "dog"
+            }
+          ]
+        },
+        "provider_times": {
+          "execution": 0,
+          "initialization": 0
+        },
+        "request_id": "461d6f9e",
+        "stats": {
+          "cold_start": false,
+          "failure": false,
+          "memory_used": null
+        },
+        "times": {
+          "benchmark": 0,
+          "client": 683201,
+          "client_begin": "2025-12-15 17:45:15.901841",
+          "client_end": "2025-12-15 17:45:16.585042",
+          "initialization": 0
+        }
+      },
+      "54769b25": {
+        "billing": {
+          "_billed_time": null,
+          "_gb_seconds": 0,
+          "_memory": null
+        },
+        "output": {
+          "list": [
+            {
+              "count": 50,
+              "word": "horse"
+            },
+            {
+              "count": 50,
+              "word": "cat"
+            },
+            {
+              "count": 50,
+              "word": "bird"
+            },
+            {
+              "count": 50,
+              "word": "pig"
+            },
+            {
+              "count": 50,
+              "word": "dog"
+            }
+          ]
+        },
+        "provider_times": {
+          "execution": 0,
+          "initialization": 0
+        },
+        "request_id": "54769b25",
+        "stats": {
+          "cold_start": false,
+          "failure": false,
+          "memory_used": null
+        },
+        "times": {
+          "benchmark": 0,
+          "client": 686403,
+          "client_begin": "2025-12-15 17:45:02.541374",
+          "client_end": "2025-12-15 17:45:03.227777",
+          "initialization": 0
+        }
+      },
+      "5696b6e8": {
+        "billing": {
+          "_billed_time": null,
+          "_gb_seconds": 0,
+          "_memory": null
+        },
+        "output": {
+          "list": [
+            {
+              "count": 50,
+              "word": "horse"
+            },
+            {
+              "count": 50,
+              "word": "cat"
+            },
+            {
+              "count": 50,
+              "word": "bird"
+            },
+            {
+              "count": 50,
+              "word": "pig"
+            },
+            {
+              "count": 50,
+              "word": "dog"
+            }
+          ]
+        },
+        "provider_times": {
+          "execution": 0,
+          "initialization": 0
+        },
+        "request_id": "5696b6e8",
+        "stats": {
+          "cold_start": false,
+          "failure": false,
+          "memory_used": null
+        },
+        "times": {
+          "benchmark": 0,
+          "client": 750370,
+          "client_begin": "2025-12-15 17:45:31.978423",
+          "client_end": "2025-12-15 17:45:32.728793",
+          "initialization": 0
+        }
+      },
+      "609acdb5": {
+        "billing": {
+          "_billed_time": null,
+          "_gb_seconds": 0,
+          "_memory": null
+        },
+        "output": {
+          "list": [
+            {
+              "count": 50,
+              "word": "horse"
+            },
+            {
+              "count": 50,
+              "word": "cat"
+            },
+            {
+              "count": 50,
+              "word": "bird"
+            },
+            {
+              "count": 50,
+              "word": "pig"
+            },
+            {
+              "count": 50,
+              "word": "dog"
+            }
+          ]
+        },
+        "provider_times": {
+          "execution": 0,
+          "initialization": 0
+        },
+        "request_id": "609acdb5",
+        "stats": {
+          "cold_start": false,
+          "failure": false,
+          "memory_used": null
+        },
+        "times": {
+          "benchmark": 0,
+          "client": 884740,
+          "client_begin": "2025-12-15 17:44:34.493495",
+          "client_end": "2025-12-15 17:44:35.378235",
+          "initialization": 0
+        }
+      },
+      "7f5ba918": {
+        "billing": {
+          "_billed_time": null,
+          "_gb_seconds": 0,
+          "_memory": null
+        },
+        "output": {
+          "list": [
+            {
+              "count": 50,
+              "word": "horse"
+            },
+            {
+              "count": 50,
+              "word": "cat"
+            },
+            {
+              "count": 50,
+              "word": "bird"
+            },
+            {
+              "count": 50,
+              "word": "pig"
+            },
+            {
+              "count": 50,
+              "word": "dog"
+            }
+          ]
+        },
+        "provider_times": {
+          "execution": 0,
+          "initialization": 0
+        },
+        "request_id": "7f5ba918",
+        "stats": {
+          "cold_start": false,
+          "failure": false,
+          "memory_used": null
+        },
+        "times": {
+          "benchmark": 0,
+          "client": 884503,
+          "client_begin": "2025-12-15 17:44:41.983772",
+          "client_end": "2025-12-15 17:44:42.868275",
+          "initialization": 0
+        }
+      },
+      "a2d859d4": {
+        "billing": {
+          "_billed_time": null,
+          "_gb_seconds": 0,
+          "_memory": null
+        },
+        "output": {
+          "list": [
+            {
+              "count": 50,
+              "word": "horse"
+            },
+            {
+              "count": 50,
+              "word": "cat"
+            },
+            {
+              "count": 50,
+              "word": "bird"
+            },
+            {
+              "count": 50,
+              "word": "pig"
+            },
+            {
+              "count": 50,
+              "word": "dog"
+            }
+          ]
+        },
+        "provider_times": {
+          "execution": 0,
+          "initialization": 0
+        },
+        "request_id": "a2d859d4",
+        "stats": {
+          "cold_start": false,
+          "failure": false,
+          "memory_used": null
+        },
+        "times": {
+          "benchmark": 0,
+          "client": 695047,
+          "client_begin": "2025-12-15 17:44:26.159394",
+          "client_end": "2025-12-15 17:44:26.854441",
+          "initialization": 0
+        }
+      },
+      "e1378b07": {
+        "billing": {
+          "_billed_time": null,
+          "_gb_seconds": 0,
+          "_memory": null
+        },
+        "output": {
+          "list": [
+            {
+              "count": 50,
+              "word": "horse"
+            },
+            {
+              "count": 50,
+              "word": "cat"
+            },
+            {
+              "count": 50,
+              "word": "bird"
+            },
+            {
+              "count": 50,
+              "word": "pig"
+            },
+            {
+              "count": 50,
+              "word": "dog"
+            }
+          ]
+        },
+        "provider_times": {
+          "execution": 0,
+          "initialization": 0
+        },
+        "request_id": "e1378b07",
+        "stats": {
+          "cold_start": false,
+          "failure": false,
+          "memory_used": null
+        },
+        "times": {
+          "benchmark": 0,
+          "client": 691007,
+          "client_begin": "2025-12-15 17:44:55.979108",
+          "client_end": "2025-12-15 17:44:56.670115",
+          "initialization": 0
+        }
+      },
+      "ed5fb2fc": {
+        "billing": {
+          "_billed_time": null,
+          "_gb_seconds": 0,
+          "_memory": null
+        },
+        "output": {
+          "list": [
+            {
+              "count": 50,
+              "word": "horse"
+            },
+            {
+              "count": 50,
+              "word": "cat"
+            },
+            {
+              "count": 50,
+              "word": "bird"
+            },
+            {
+              "count": 50,
+              "word": "pig"
+            },
+            {
+              "count": 50,
+              "word": "dog"
+            }
+          ]
+        },
+        "provider_times": {
+          "execution": 0,
+          "initialization": 0
+        },
+        "request_id": "ed5fb2fc",
+        "stats": {
+          "cold_start": false,
+          "failure": false,
+          "memory_used": null
+        },
+        "times": {
+          "benchmark": 0,
+          "client": 680352,
+          "client_begin": "2025-12-15 17:44:49.414121",
+          "client_end": "2025-12-15 17:44:50.094473",
+          "initialization": 0
+        }
+      },
+      "f8ac3602": {
+        "billing": {
+          "_billed_time": null,
+          "_gb_seconds": 0,
+          "_memory": null
+        },
+        "output": {
+          "list": [
+            {
+              "count": 50,
+              "word": "horse"
+            },
+            {
+              "count": 50,
+              "word": "cat"
+            },
+            {
+              "count": 50,
+              "word": "bird"
+            },
+            {
+              "count": 50,
+              "word": "pig"
+            },
+            {
+              "count": 50,
+              "word": "dog"
+            }
+          ]
+        },
+        "provider_times": {
+          "execution": 0,
+          "initialization": 0
+        },
+        "request_id": "f8ac3602",
+        "stats": {
+          "cold_start": false,
+          "failure": false,
+          "memory_used": null
+        },
+        "times": {
+          "benchmark": 0,
+          "client": 698625,
+          "client_begin": "2025-12-15 17:43:53.207056",
+          "client_end": "2025-12-15 17:43:53.905681",
+          "initialization": 0
+        }
+      }
+    }
+  },
+  "_metrics": {},
+  "begin_time": 1765813432.598715,
+  "config": {
+    "deployment": {
+      "credentials": {
+        "account_id": "211125350231"
+      },
+      "name": "aws",
+      "region": "us-east-1",
+      "resources": {
+        "benchmarks": "sebs-benchmarks-b13050c0",
+        "http-apis": {},
+        "lambda-role": "arn:aws:iam::211125350231:role/LabRole",
+        "redis": {
+          "host": "3.91.227.180",
+          "password": ""
+        },
+        "resources_id": "b13050c0"
+      }
+    },
+    "experiments": {
+      "download_results": true,
+      "experiments": {
+        "perf-cost": {
+          "benchmark": "620.func-invo",
+          "concurrent-invocations": 1,
+          "experiments": [
+            "warm"
+          ],
+          "input-size": "test",
+          "memory-sizes": [
+            128
+          ],
+          "repetitions": 15
+        }
+      },
+      "flags": {},
+      "runtime": {
+        "language": "python",
+        "version": "3.8"
+      },
+      "update_code": false,
+      "update_storage": true
+    }
+  },
+  "end_time": 1765813539.146229,
+  "result_bucket": null
+}

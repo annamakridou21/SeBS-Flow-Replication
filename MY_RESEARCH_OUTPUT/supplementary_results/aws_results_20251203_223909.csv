@@ -1,0 +1,4 @@
+function_name,request_id,timestamp,cold_start,execution_time_ms,total_time_ms,billed_time_ms,memory_allocated_mb,memory_used_mb,initialization_time_ms,upload_time_ms,upload_size_bytes,download_time_ms,download_size_bytes,compute_time_ms,failure
+120_uploader_python_3_8,0963f4fa-e24d-443f-a06a-c887fe5d1416,2025-12-03 22:25:37.580284,False,2083.622,2284.87,2086,128,93.0,0.0,774.922,7034848,0.0,0,1308.641,False
+120_uploader_python_3_8,252621ed-e55c-4f64-8ee2-6371a8927d21,2025-12-03 22:25:27.057475,True,7581.29,8125.964,7751,128,91.0,148.3,916.546,7034848,0.0,0,1581.937,False
+120_uploader_python_3_8,ce6007fd-3604-4b6d-90a8-fa2618abcdf0,2025-12-03 22:25:35.185502,False,2211.09,2393.561,2213,128,93.0,0.0,815.271,7034848,0.0,0,1395.76,False

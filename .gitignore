@@ -1,0 +1,30 @@
+# Local archives and credentials
+.local-backup/
+SeBS-Flow-Replication/
+*.pem
+*.key
+!replication_presentation.key
+.env
+.env.*
+!.env.example
+.aws/
+**/config/*.local.json
+
+# Dependencies and generated deployment files
+**/python-venv/
+**/.venv/
+**/venv/
+**/node_modules/
+**/.python_packages/
+**/__pycache__/
+*.py[cod]
+*.log
+**/cache/
+**/.cache/
+MY_RESEARCH_OUTPUT/custom_benchmark/results/*_code/
+MY_RESEARCH_OUTPUT/custom_benchmark/matrix_mult
+
+# Editor and operating system files
+.DS_Store
+.idea/
+.vscode/

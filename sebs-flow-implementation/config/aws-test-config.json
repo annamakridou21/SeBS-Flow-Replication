@@ -1,0 +1,25 @@
+{
+  "experiments": {
+    "deployment": "aws",
+    "update_code": false,
+    "update_storage": false,
+    "download_results": true,
+    "runtime": {
+      "language": "python",
+      "version": "3.8"
+    }
+  },
+  "deployment": {
+    "name": "aws",
+    "aws": {
+      "region": "us-east-1",
+      "lambda-role": "arn:aws:iam::211125350231:role/LabRole",
+      "resources": {
+        "redis": {
+          "host": "localhost",
+          "password": ""
+        }
+      }
+    }
+  }
+}

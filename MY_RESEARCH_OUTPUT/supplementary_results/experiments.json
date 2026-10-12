@@ -1,0 +1,112 @@
+{
+  "_invocations": {
+    "110_dynamic_html_python_3_8": {
+      "ceb94ab2-4f88-45dc-b8f5-93a15adee039": {
+        "billing": {
+          "_billed_time": 20,
+          "_gb_seconds": 2560,
+          "_memory": 128
+        },
+        "output": {
+          "begin": "1765996656.806155",
+          "cold_start_var": "",
+          "container_id": "66aecacc",
+          "end": "1765996656.808007",
+          "is_cold": false,
+          "request_id": "ceb94ab2-4f88-45dc-b8f5-93a15adee039",
+          "result": {
+            "output": "<!DOCTYPE html>\n<html>\n  <head>\n    <title>Randomly generated data.</title>\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n    <link href=\"http://netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap.min.css\" rel=\"stylesheet\" media=\"screen\">\n    <style type=\"text/css\">\n      .container {\n        max-width: 500px;\n        padding-top: 100px;\n      }\n    </style>\n  </head>\n  <body>\n    <div class=\"container\">\n      <p>Welcome testname!</p>\n      <p>Data generated at: 2025-12-17 18:37:36.806167!</p>\n      <p>Requested random numbers:</p>\n      <ul>\n        \n        <li>263288</li>\n        \n        <li>876193</li>\n        \n        <li>504156</li>\n        \n        <li>879713</li>\n        \n        <li>699859</li>\n        \n        <li>229829</li>\n        \n        <li>816574</li>\n        \n        <li>322172</li>\n        \n        <li>981166</li>\n        \n        <li>913648</li>\n        \n      </ul>\n    </div>\n  </body>\n</html>"
+          },
+          "results_time": 0
+        },
+        "provider_times": {
+          "execution": 19990,
+          "initialization": 0
+        },
+        "request_id": "ceb94ab2-4f88-45dc-b8f5-93a15adee039",
+        "stats": {
+          "cold_start": false,
+          "failure": false,
+          "memory_used": 47.0
+        },
+        "times": {
+          "benchmark": 1852,
+          "client": 320590,
+          "client_begin": "2025-12-17 20:37:36.469715",
+          "client_end": "2025-12-17 20:37:36.790305",
+          "initialization": 0
+        }
+      },
+      "f7c7d02a-8ea1-4494-9ba4-74c98b987218": {
+        "billing": {
+          "_billed_time": 1201,
+          "_gb_seconds": 153728,
+          "_memory": 128
+        },
+        "output": {
+          "begin": "1765996655.457788",
+          "cold_start_var": "",
+          "container_id": "66aecacc",
+          "end": "1765996656.485621",
+          "is_cold": true,
+          "request_id": "f7c7d02a-8ea1-4494-9ba4-74c98b987218",
+          "result": {
+            "output": "<!DOCTYPE html>\n<html>\n  <head>\n    <title>Randomly generated data.</title>\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n    <link href=\"http://netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap.min.css\" rel=\"stylesheet\" media=\"screen\">\n    <style type=\"text/css\">\n      .container {\n        max-width: 500px;\n        padding-top: 100px;\n      }\n    </style>\n  </head>\n  <body>\n    <div class=\"container\">\n      <p>Welcome testname!</p>\n      <p>Data generated at: 2025-12-17 18:37:36.368482!</p>\n      <p>Requested random numbers:</p>\n      <ul>\n        \n        <li>262409</li>\n        \n        <li>975071</li>\n        \n        <li>19845</li>\n        \n        <li>974922</li>\n        \n        <li>526711</li>\n        \n        <li>861777</li>\n        \n        <li>264293</li>\n        \n        <li>778815</li>\n        \n        <li>902882</li>\n        \n        <li>594139</li>\n        \n      </ul>\n    </div>\n  </body>\n</html>"
+          },
+          "results_time": 0
+        },
+        "provider_times": {
+          "execution": 1048580,
+          "initialization": 151880
+        },
+        "request_id": "f7c7d02a-8ea1-4494-9ba4-74c98b987218",
+        "stats": {
+          "cold_start": true,
+          "failure": false,
+          "memory_used": 47.0
+        },
+        "times": {
+          "benchmark": 1027833,
+          "client": 2089074,
+          "client_begin": "2025-12-17 20:37:34.380257",
+          "client_end": "2025-12-17 20:37:36.469331",
+          "initialization": 0
+        }
+      }
+    }
+  },
+  "_metrics": {},
+  "begin_time": 1765996654.380185,
+  "config": {
+    "deployment": {
+      "credentials": {
+        "account_id": "211125350231"
+      },
+      "name": "aws",
+      "region": "us-east-1",
+      "resources": {
+        "benchmarks": "sebs-benchmarks-b13050c0",
+        "http-apis": {},
+        "lambda-role": "arn:aws:iam::211125350231:role/LabRole",
+        "redis": {
+          "host": "3.91.227.180",
+          "password": ""
+        },
+        "resources_id": "b13050c0"
+      }
+    },
+    "experiments": {
+      "download_results": true,
+      "experiments": {},
+      "flags": {},
+      "runtime": {
+        "language": "python",
+        "version": "3.8"
+      },
+      "update_code": false,
+      "update_storage": false
+    }
+  },
+  "end_time": 1765996656.790833,
+  "result_bucket": null
+}

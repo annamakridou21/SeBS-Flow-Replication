@@ -1,0 +1,56 @@
+{
+  "session_date": "2025-12-13",
+  "platform": "AWS",
+  "region": "us-east-1",
+  "redis_vm": "54.167.78.101:6379",
+  "total_workflows": 3,
+  "total_invocations": 45,
+  "success_rate": "100%",
+  "workflows": {
+    "620.func-invo": {
+      "workflow": "620.func-invo",
+      "platform": "AWS",
+      "runtime": "python:3.8",
+      "trigger": "Step Functions",
+      "repetitions_requested": 15,
+      "repetitions_completed": 15,
+      "redis_measurements": 15,
+      "status": "COMPLETE",
+      "timestamp": "2025-12-13T13:46:24",
+      "log_file": "workflow_620_20251213_134624.log"
+    },
+    "630.parallel-sleep": {
+      "workflow": "630.parallel-sleep",
+      "platform": "AWS",
+      "runtime": "python:3.8",
+      "trigger": "Step Functions",
+      "repetitions_requested": 15,
+      "repetitions_completed": 15,
+      "redis_measurements": 15,
+      "average_latency_ms": 685.0,
+      "status": "COMPLETE",
+      "timestamp": "2025-12-13T14:01:29",
+      "log_file": "workflow_630_parallel_sleep_20251213_140129.log"
+    },
+    "660.map-reduce": {
+      "workflow": "660.map-reduce",
+      "platform": "AWS",
+      "runtime": "python:3.8",
+      "trigger": "Step Functions",
+      "repetitions_requested": 15,
+      "repetitions_completed": 15,
+      "successful": 15,
+      "failed": 0,
+      "average_latency_ms": 688.13,
+      "status": "COMPLETE",
+      "timestamp": "2025-12-13T14:04:50",
+      "log_file": "workflow_660_map_reduce_20251213_140450.log"
+    }
+  },
+  "notes": [
+    "All workflows executed with Step Functions orchestration",
+    "Redis coordination enabled for cross-function timing",
+    "experiments.json overwritten by each run - results extracted from logs",
+    "Azure workflows not supported in SeBS-Flow (NotImplementedError)"
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "workflow": "630.parallel-sleep",
+  "platform": "AWS",
+  "runtime": "python:3.8",
+  "trigger": "Step Functions",
+  "repetitions_requested": 15,
+  "repetitions_completed": 15,
+  "redis_measurements": 15,
+  "average_latency_ms": 685.0,
+  "status": "COMPLETE",
+  "timestamp": "2025-12-13T14:01:29",
+  "log_file": "workflow_630_parallel_sleep_20251213_140129.log"
+}

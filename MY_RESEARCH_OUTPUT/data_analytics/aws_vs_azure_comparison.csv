@@ -1,0 +1,4 @@
+Benchmark,Type,AWS_Avg_ms,Azure_Avg_ms,Speedup_Factor,Winner
+110_dynamic_html,Function,34511.4,5373.57,6.42,Azure
+210_thumbnailer,Function,819223.07,215644.47,3.8,Azure
+311_compression,Function,7265409.53,1528116.6,4.75,Azure

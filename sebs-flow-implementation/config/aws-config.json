@@ -1,0 +1,43 @@
+{
+  "experiments": {
+    "deployment": "aws",
+    "update_code": false,
+    "update_storage": false,
+    "download_results": true,
+    "runtime": {
+      "language": "python",
+      "version": "3.8"
+    },
+    "type": "perf-cost",
+    "perf-cost": {
+      "benchmark": "620.func-invo",
+      "experiments": [
+        "warm"
+      ],
+      "input-size": "test",
+      "repetitions": 15,
+      "concurrent-invocations": 1,
+      "memory-sizes": [
+        128
+      ]
+    }
+  },
+  "deployment": {
+    "name": "aws",
+    "aws": {
+      "region": "us-east-1",
+      "lambda-role": "arn:aws:iam::211125350231:role/LabRole",
+      "credentials": {
+        "access_key": "",
+        "secret_key": "",
+        "session_token": ""
+      },
+      "resources": {
+        "redis": {
+          "host": "3.91.227.180",
+          "password": ""
+        }
+      }
+    }
+  }
+}

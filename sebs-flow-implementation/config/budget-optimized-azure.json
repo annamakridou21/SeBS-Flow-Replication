@@ -1,0 +1,39 @@
+{
+  "experiments": {
+    "deployment": "azure",
+    "update_code": true,
+    "update_storage": true,
+    "download_results": true,
+    "runtime": {
+      "language": "python",
+      "version": "3.9"
+    },
+    "type": "perf-cost",
+    "perf-cost": {
+      "benchmark": "620.func-invo",
+      "experiments": [
+        "cold",
+        "warm"
+      ],
+      "input-size": "test",
+      "repetitions": 10,
+      "concurrent-invocations": 5,
+      "memory-sizes": [
+        128,
+        256
+      ]
+    }
+  },
+  "deployment": {
+    "name": "azure",
+    "azure": {
+      "region": "eastus",
+      "resources": {
+        "redis": {
+          "host": "your-redis-host.eastus.cloudapp.azure.com",
+          "password": ""
+        }
+      }
+    }
+  }
+}

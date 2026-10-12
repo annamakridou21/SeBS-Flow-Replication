@@ -1,0 +1,9 @@
+{
+  "workflow": "660.map-reduce",
+  "platform": "azure",
+  "repetitions_completed": 15,
+  "status": "COMPLETE",
+  "timestamp": "205321",
+  "log_file": "workflow_660_azure_20251213_205321.log",
+  "note": "Extracted from log file - original experiments.json was overwritten"
+}

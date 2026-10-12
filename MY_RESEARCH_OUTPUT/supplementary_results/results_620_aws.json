@@ -1,0 +1,12 @@
+{
+  "workflow": "620.func-invo",
+  "platform": "AWS",
+  "runtime": "python:3.8",
+  "trigger": "Step Functions",
+  "repetitions_requested": 15,
+  "repetitions_completed": 15,
+  "redis_measurements": 15,
+  "status": "COMPLETE",
+  "timestamp": "2025-12-13T13:46:24",
+  "log_file": "workflow_620_20251213_134624.log"
+}

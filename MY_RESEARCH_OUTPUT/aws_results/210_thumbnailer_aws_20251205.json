@@ -1,0 +1,730 @@
+{
+  "_invocations": {
+    "210_thumbnailer_python_3_8": {
+      "11adba55-82f0-430c-9945-62fdf600b1ed": {
+        "billing": {
+          "_billed_time": 580,
+          "_gb_seconds": 148480,
+          "_memory": 256
+        },
+        "output": {
+          "begin": "1764956819.549751",
+          "cold_start_var": "",
+          "container_id": "a218a429",
+          "end": "1764956820.127527",
+          "is_cold": false,
+          "request_id": "11adba55-82f0-430c-9945-62fdf600b1ed",
+          "result": {
+            "measurement": {
+              "compute_time": 439059.0,
+              "download_size": 4088937,
+              "download_time": 90043.0,
+              "upload_size": 9048,
+              "upload_time": 48611.0
+            },
+            "output": {
+              "bucket": "sebs-benchmarks-f25a0428",
+              "key": "210.thumbnailer-0-output/9_cobblestone-granite-pebbles-1029604.e8cea044.jpg"
+            }
+          },
+          "results_time": 0
+        },
+        "provider_times": {
+          "execution": 579580,
+          "initialization": 0
+        },
+        "request_id": "11adba55-82f0-430c-9945-62fdf600b1ed",
+        "stats": {
+          "cold_start": false,
+          "failure": false,
+          "memory_used": 98.0
+        },
+        "times": {
+          "benchmark": 577776,
+          "client": 820455,
+          "client_begin": "2025-12-05 19:46:59.404214",
+          "client_end": "2025-12-05 19:47:00.224669",
+          "initialization": 0
+        }
+      },
+      "1cc4e327-e1ef-4435-8dd0-28f167e1f023": {
+        "billing": {
+          "_billed_time": 628,
+          "_gb_seconds": 160768,
+          "_memory": 256
+        },
+        "output": {
+          "begin": "1764956827.054951",
+          "cold_start_var": "",
+          "container_id": "a218a429",
+          "end": "1764956827.680390",
+          "is_cold": false,
+          "request_id": "1cc4e327-e1ef-4435-8dd0-28f167e1f023",
+          "result": {
+            "measurement": {
+              "compute_time": 422936.0,
+              "download_size": 4088937,
+              "download_time": 103273.0,
+              "upload_size": 9048,
+              "upload_time": 99165.0
+            },
+            "output": {
+              "bucket": "sebs-benchmarks-f25a0428",
+              "key": "210.thumbnailer-0-output/9_cobblestone-granite-pebbles-1029604.19b8975f.jpg"
+            }
+          },
+          "results_time": 0
+        },
+        "provider_times": {
+          "execution": 627100,
+          "initialization": 0
+        },
+        "request_id": "1cc4e327-e1ef-4435-8dd0-28f167e1f023",
+        "stats": {
+          "cold_start": false,
+          "failure": false,
+          "memory_used": 98.0
+        },
+        "times": {
+          "benchmark": 625439,
+          "client": 852702,
+          "client_begin": "2025-12-05 19:47:06.949267",
+          "client_end": "2025-12-05 19:47:07.801969",
+          "initialization": 0
+        }
+      },
+      "3368941e-866f-4195-b7cc-04fd6c72e007": {
+        "billing": {
+          "_billed_time": 616,
+          "_gb_seconds": 157696,
+          "_memory": 256
+        },
+        "output": {
+          "begin": "1764956821.985181",
+          "cold_start_var": "",
+          "container_id": "a218a429",
+          "end": "1764956822.598753",
+          "is_cold": false,
+          "request_id": "3368941e-866f-4195-b7cc-04fd6c72e007",
+          "result": {
+            "measurement": {
+              "compute_time": 403617.0,
+              "download_size": 4088937,
+              "download_time": 132978.0,
+              "upload_size": 9048,
+              "upload_time": 76913.0
+            },
+            "output": {
+              "bucket": "sebs-benchmarks-f25a0428",
+              "key": "210.thumbnailer-0-output/9_cobblestone-granite-pebbles-1029604.31fe7021.jpg"
+            }
+          },
+          "results_time": 0
+        },
+        "provider_times": {
+          "execution": 615320,
+          "initialization": 0
+        },
+        "request_id": "3368941e-866f-4195-b7cc-04fd6c72e007",
+        "stats": {
+          "cold_start": false,
+          "failure": false,
+          "memory_used": 98.0
+        },
+        "times": {
+          "benchmark": 613572,
+          "client": 815760,
+          "client_begin": "2025-12-05 19:47:01.862614",
+          "client_end": "2025-12-05 19:47:02.678374",
+          "initialization": 0
+        }
+      },
+      "3ddc2858-68f6-4fdb-8505-86c7701a16d6": {
+        "billing": {
+          "_billed_time": 587,
+          "_gb_seconds": 150272,
+          "_memory": 256
+        },
+        "output": {
+          "begin": "1764956825.453431",
+          "cold_start_var": "",
+          "container_id": "a218a429",
+          "end": "1764956826.038202",
+          "is_cold": false,
+          "request_id": "3ddc2858-68f6-4fdb-8505-86c7701a16d6",
+          "result": {
+            "measurement": {
+              "compute_time": 403250.0,
+              "download_size": 4088937,
+              "download_time": 104803.0,
+              "upload_size": 9048,
+              "upload_time": 76645.0
+            },
+            "output": {
+              "bucket": "sebs-benchmarks-f25a0428",
+              "key": "210.thumbnailer-0-output/9_cobblestone-granite-pebbles-1029604.0d8b3774.jpg"
+            }
+          },
+          "results_time": 0
+        },
+        "provider_times": {
+          "execution": 586590,
+          "initialization": 0
+        },
+        "request_id": "3ddc2858-68f6-4fdb-8505-86c7701a16d6",
+        "stats": {
+          "cold_start": false,
+          "failure": false,
+          "memory_used": 98.0
+        },
+        "times": {
+          "benchmark": 584771,
+          "client": 815552,
+          "client_begin": "2025-12-05 19:47:05.348254",
+          "client_end": "2025-12-05 19:47:06.163806",
+          "initialization": 0
+        }
+      },
+      "53fe3ca2-b245-44ea-9426-fdc8a81b86cf": {
+        "billing": {
+          "_billed_time": 3795,
+          "_gb_seconds": 971520,
+          "_memory": 256
+        },
+        "output": {
+          "begin": "1764956813.720854",
+          "cold_start_var": "",
+          "container_id": "a218a429",
+          "end": "1764956817.368356",
+          "is_cold": true,
+          "request_id": "53fe3ca2-b245-44ea-9426-fdc8a81b86cf",
+          "result": {
+            "measurement": {
+              "compute_time": 639759.0,
+              "download_size": 4088937,
+              "download_time": 398620.0,
+              "upload_size": 9048,
+              "upload_time": 50070.0
+            },
+            "output": {
+              "bucket": "sebs-benchmarks-f25a0428",
+              "key": "210.thumbnailer-0-output/9_cobblestone-granite-pebbles-1029604.397c1175.jpg"
+            }
+          },
+          "results_time": 0
+        },
+        "provider_times": {
+          "execution": 3658180,
+          "initialization": 136780
+        },
+        "request_id": "53fe3ca2-b245-44ea-9426-fdc8a81b86cf",
+        "stats": {
+          "cold_start": true,
+          "failure": false,
+          "memory_used": 98.0
+        },
+        "times": {
+          "benchmark": 3647502,
+          "client": 4334790,
+          "client_begin": "2025-12-05 19:46:53.233776",
+          "client_end": "2025-12-05 19:46:57.568566",
+          "initialization": 0
+        }
+      },
+      "61344b0c-59ef-452b-97c3-7f1c535aa46b": {
+        "billing": {
+          "_billed_time": 768,
+          "_gb_seconds": 196608,
+          "_memory": 256
+        },
+        "output": {
+          "begin": "1764956824.431898",
+          "cold_start_var": "",
+          "container_id": "a218a429",
+          "end": "1764956825.198178",
+          "is_cold": false,
+          "request_id": "61344b0c-59ef-452b-97c3-7f1c535aa46b",
+          "result": {
+            "measurement": {
+              "compute_time": 423240.0,
+              "download_size": 4088937,
+              "download_time": 286332.0,
+              "upload_size": 9048,
+              "upload_time": 56644.0
+            },
+            "output": {
+              "bucket": "sebs-benchmarks-f25a0428",
+              "key": "210.thumbnailer-0-output/9_cobblestone-granite-pebbles-1029604.b603cae3.jpg"
+            }
+          },
+          "results_time": 0
+        },
+        "provider_times": {
+          "execution": 767970,
+          "initialization": 0
+        },
+        "request_id": "61344b0c-59ef-452b-97c3-7f1c535aa46b",
+        "stats": {
+          "cold_start": false,
+          "failure": false,
+          "memory_used": 98.0
+        },
+        "times": {
+          "benchmark": 766280,
+          "client": 1025165,
+          "client_begin": "2025-12-05 19:47:04.322007",
+          "client_end": "2025-12-05 19:47:05.347172",
+          "initialization": 0
+        }
+      },
+      "629ffead-c470-40a0-b926-c690b1656771": {
+        "billing": {
+          "_billed_time": 589,
+          "_gb_seconds": 150784,
+          "_memory": 256
+        },
+        "output": {
+          "begin": "1764956827.912713",
+          "cold_start_var": "",
+          "container_id": "a218a429",
+          "end": "1764956828.498944",
+          "is_cold": false,
+          "request_id": "629ffead-c470-40a0-b926-c690b1656771",
+          "result": {
+            "measurement": {
+              "compute_time": 422665.0,
+              "download_size": 4088937,
+              "download_time": 105452.0,
+              "upload_size": 9048,
+              "upload_time": 58053.0
+            },
+            "output": {
+              "bucket": "sebs-benchmarks-f25a0428",
+              "key": "210.thumbnailer-0-output/9_cobblestone-granite-pebbles-1029604.954b657e.jpg"
+            }
+          },
+          "results_time": 0
+        },
+        "provider_times": {
+          "execution": 588720,
+          "initialization": 0
+        },
+        "request_id": "629ffead-c470-40a0-b926-c690b1656771",
+        "stats": {
+          "cold_start": false,
+          "failure": false,
+          "memory_used": 98.0
+        },
+        "times": {
+          "benchmark": 586231,
+          "client": 817985,
+          "client_begin": "2025-12-05 19:47:07.803233",
+          "client_end": "2025-12-05 19:47:08.621218",
+          "initialization": 0
+        }
+      },
+      "7f1cfa02-b996-4cae-85c4-6064fe35b6d1": {
+        "billing": {
+          "_billed_time": 607,
+          "_gb_seconds": 155392,
+          "_memory": 256
+        },
+        "output": {
+          "begin": "1764956826.272407",
+          "cold_start_var": "",
+          "container_id": "a218a429",
+          "end": "1764956826.875973",
+          "is_cold": false,
+          "request_id": "7f1cfa02-b996-4cae-85c4-6064fe35b6d1",
+          "result": {
+            "measurement": {
+              "compute_time": 403043.0,
+              "download_size": 4088937,
+              "download_time": 125762.0,
+              "upload_size": 9048,
+              "upload_time": 74695.0
+            },
+            "output": {
+              "bucket": "sebs-benchmarks-f25a0428",
+              "key": "210.thumbnailer-0-output/9_cobblestone-granite-pebbles-1029604.b22f831a.jpg"
+            }
+          },
+          "results_time": 0
+        },
+        "provider_times": {
+          "execution": 606330,
+          "initialization": 0
+        },
+        "request_id": "7f1cfa02-b996-4cae-85c4-6064fe35b6d1",
+        "stats": {
+          "cold_start": false,
+          "failure": false,
+          "memory_used": 98.0
+        },
+        "times": {
+          "benchmark": 603566,
+          "client": 783321,
+          "client_begin": "2025-12-05 19:47:06.165104",
+          "client_end": "2025-12-05 19:47:06.948425",
+          "initialization": 0
+        }
+      },
+      "a47d56d6-72ba-4f87-aa5b-98ef85d0be1d": {
+        "billing": {
+          "_billed_time": 626,
+          "_gb_seconds": 160256,
+          "_memory": 256
+        },
+        "output": {
+          "begin": "1764956822.794636",
+          "cold_start_var": "",
+          "container_id": "a218a429",
+          "end": "1764956823.418053",
+          "is_cold": false,
+          "request_id": "a47d56d6-72ba-4f87-aa5b-98ef85d0be1d",
+          "result": {
+            "measurement": {
+              "compute_time": 423214.0,
+              "download_size": 4088937,
+              "download_time": 103594.0,
+              "upload_size": 9048,
+              "upload_time": 96546.0
+            },
+            "output": {
+              "bucket": "sebs-benchmarks-f25a0428",
+              "key": "210.thumbnailer-0-output/9_cobblestone-granite-pebbles-1029604.2b3b99f2.jpg"
+            }
+          },
+          "results_time": 0
+        },
+        "provider_times": {
+          "execution": 625090,
+          "initialization": 0
+        },
+        "request_id": "a47d56d6-72ba-4f87-aa5b-98ef85d0be1d",
+        "stats": {
+          "cold_start": false,
+          "failure": false,
+          "memory_used": 98.0
+        },
+        "times": {
+          "benchmark": 623417,
+          "client": 822512,
+          "client_begin": "2025-12-05 19:47:02.678685",
+          "client_end": "2025-12-05 19:47:03.501197",
+          "initialization": 0
+        }
+      },
+      "ae7a386f-29ce-4a99-9a4f-93f5bdeccb98": {
+        "billing": {
+          "_billed_time": 622,
+          "_gb_seconds": 159232,
+          "_memory": 256
+        },
+        "output": {
+          "begin": "1764956821.128158",
+          "cold_start_var": "",
+          "container_id": "a218a429",
+          "end": "1764956821.747703",
+          "is_cold": false,
+          "request_id": "ae7a386f-29ce-4a99-9a4f-93f5bdeccb98",
+          "result": {
+            "measurement": {
+              "compute_time": 402910.0,
+              "download_size": 4088937,
+              "download_time": 130440.0,
+              "upload_size": 9048,
+              "upload_time": 86133.0
+            },
+            "output": {
+              "bucket": "sebs-benchmarks-f25a0428",
+              "key": "210.thumbnailer-0-output/9_cobblestone-granite-pebbles-1029604.79affa4a.jpg"
+            }
+          },
+          "results_time": 0
+        },
+        "provider_times": {
+          "execution": 621250,
+          "initialization": 0
+        },
+        "request_id": "ae7a386f-29ce-4a99-9a4f-93f5bdeccb98",
+        "stats": {
+          "cold_start": false,
+          "failure": false,
+          "memory_used": 98.0
+        },
+        "times": {
+          "benchmark": 619545,
+          "client": 866807,
+          "client_begin": "2025-12-05 19:47:00.995069",
+          "client_end": "2025-12-05 19:47:01.861876",
+          "initialization": 0
+        }
+      },
+      "aefc6ec9-c2d7-4e0d-9151-41c8bd161c54": {
+        "billing": {
+          "_billed_time": 652,
+          "_gb_seconds": 166912,
+          "_memory": 256
+        },
+        "output": {
+          "begin": "1764956818.595849",
+          "cold_start_var": "",
+          "container_id": "a218a429",
+          "end": "1764956819.246023",
+          "is_cold": false,
+          "request_id": "aefc6ec9-c2d7-4e0d-9151-41c8bd161c54",
+          "result": {
+            "measurement": {
+              "compute_time": 423556.0,
+              "download_size": 4088937,
+              "download_time": 102327.0,
+              "upload_size": 9048,
+              "upload_time": 124227.0
+            },
+            "output": {
+              "bucket": "sebs-benchmarks-f25a0428",
+              "key": "210.thumbnailer-0-output/9_cobblestone-granite-pebbles-1029604.876ddaba.jpg"
+            }
+          },
+          "results_time": 0
+        },
+        "provider_times": {
+          "execution": 651880,
+          "initialization": 0
+        },
+        "request_id": "aefc6ec9-c2d7-4e0d-9151-41c8bd161c54",
+        "stats": {
+          "cold_start": false,
+          "failure": false,
+          "memory_used": 98.0
+        },
+        "times": {
+          "benchmark": 650174,
+          "client": 917845,
+          "client_begin": "2025-12-05 19:46:58.484953",
+          "client_end": "2025-12-05 19:46:59.402798",
+          "initialization": 0
+        }
+      },
+      "b23623f9-96b3-4680-b5a0-e2f9fbd2bbd8": {
+        "billing": {
+          "_billed_time": 583,
+          "_gb_seconds": 149248,
+          "_memory": 256
+        },
+        "output": {
+          "begin": "1764956820.337348",
+          "cold_start_var": "",
+          "container_id": "a218a429",
+          "end": "1764956820.918040",
+          "is_cold": false,
+          "request_id": "b23623f9-96b3-4680-b5a0-e2f9fbd2bbd8",
+          "result": {
+            "measurement": {
+              "compute_time": 403460.0,
+              "download_size": 4088937,
+              "download_time": 100794.0,
+              "upload_size": 9048,
+              "upload_time": 76377.0
+            },
+            "output": {
+              "bucket": "sebs-benchmarks-f25a0428",
+              "key": "210.thumbnailer-0-output/9_cobblestone-granite-pebbles-1029604.f058ae7c.jpg"
+            }
+          },
+          "results_time": 0
+        },
+        "provider_times": {
+          "execution": 582360,
+          "initialization": 0
+        },
+        "request_id": "b23623f9-96b3-4680-b5a0-e2f9fbd2bbd8",
+        "stats": {
+          "cold_start": false,
+          "failure": false,
+          "memory_used": 98.0
+        },
+        "times": {
+          "benchmark": 580692,
+          "client": 767602,
+          "client_begin": "2025-12-05 19:47:00.225955",
+          "client_end": "2025-12-05 19:47:00.993557",
+          "initialization": 0
+        }
+      },
+      "c66701be-9871-4a6c-885a-834e1aaa27aa": {
+        "billing": {
+          "_billed_time": 597,
+          "_gb_seconds": 152832,
+          "_memory": 256
+        },
+        "output": {
+          "begin": "1764956828.732503",
+          "cold_start_var": "",
+          "container_id": "a218a429",
+          "end": "1764956829.327248",
+          "is_cold": false,
+          "request_id": "c66701be-9871-4a6c-885a-834e1aaa27aa",
+          "result": {
+            "measurement": {
+              "compute_time": 439545.0,
+              "download_size": 4088937,
+              "download_time": 107100.0,
+              "upload_size": 9048,
+              "upload_time": 48036.0
+            },
+            "output": {
+              "bucket": "sebs-benchmarks-f25a0428",
+              "key": "210.thumbnailer-0-output/9_cobblestone-granite-pebbles-1029604.44c434d0.jpg"
+            }
+          },
+          "results_time": 0
+        },
+        "provider_times": {
+          "execution": 596370,
+          "initialization": 0
+        },
+        "request_id": "c66701be-9871-4a6c-885a-834e1aaa27aa",
+        "stats": {
+          "cold_start": false,
+          "failure": false,
+          "memory_used": 98.0
+        },
+        "times": {
+          "benchmark": 594745,
+          "client": 818445,
+          "client_begin": "2025-12-05 19:47:08.622656",
+          "client_end": "2025-12-05 19:47:09.441101",
+          "initialization": 0
+        }
+      },
+      "dbdbd7ac-808d-48fa-9d29-1e1f1ee6a9f4": {
+        "billing": {
+          "_billed_time": 596,
+          "_gb_seconds": 152576,
+          "_memory": 256
+        },
+        "output": {
+          "begin": "1764956823.626645",
+          "cold_start_var": "",
+          "container_id": "a218a429",
+          "end": "1764956824.220153",
+          "is_cold": false,
+          "request_id": "dbdbd7ac-808d-48fa-9d29-1e1f1ee6a9f4",
+          "result": {
+            "measurement": {
+              "compute_time": 422372.0,
+              "download_size": 4088937,
+              "download_time": 111542.0,
+              "upload_size": 9048,
+              "upload_time": 59531.0
+            },
+            "output": {
+              "bucket": "sebs-benchmarks-f25a0428",
+              "key": "210.thumbnailer-0-output/9_cobblestone-granite-pebbles-1029604.126d0a4a.jpg"
+            }
+          },
+          "results_time": 0
+        },
+        "provider_times": {
+          "execution": 595380,
+          "initialization": 0
+        },
+        "request_id": "dbdbd7ac-808d-48fa-9d29-1e1f1ee6a9f4",
+        "stats": {
+          "cold_start": false,
+          "failure": false,
+          "memory_used": 98.0
+        },
+        "times": {
+          "benchmark": 593508,
+          "client": 818914,
+          "client_begin": "2025-12-05 19:47:03.502432",
+          "client_end": "2025-12-05 19:47:04.321346",
+          "initialization": 0
+        }
+      },
+      "fe1745cd-e4a3-439f-b524-b7a663871d6f": {
+        "billing": {
+          "_billed_time": 623,
+          "_gb_seconds": 159488,
+          "_memory": 256
+        },
+        "output": {
+          "begin": "1764956817.737245",
+          "cold_start_var": "",
+          "container_id": "a218a429",
+          "end": "1764956818.358373",
+          "is_cold": false,
+          "request_id": "fe1745cd-e4a3-439f-b524-b7a663871d6f",
+          "result": {
+            "measurement": {
+              "compute_time": 441079.0,
+              "download_size": 4088937,
+              "download_time": 120958.0,
+              "upload_size": 9048,
+              "upload_time": 59028.0
+            },
+            "output": {
+              "bucket": "sebs-benchmarks-f25a0428",
+              "key": "210.thumbnailer-0-output/9_cobblestone-granite-pebbles-1029604.c63f7b1e.jpg"
+            }
+          },
+          "results_time": 0
+        },
+        "provider_times": {
+          "execution": 622750,
+          "initialization": 0
+        },
+        "request_id": "fe1745cd-e4a3-439f-b524-b7a663871d6f",
+        "stats": {
+          "cold_start": false,
+          "failure": false,
+          "memory_used": 98.0
+        },
+        "times": {
+          "benchmark": 621128,
+          "client": 912088,
+          "client_begin": "2025-12-05 19:46:57.571411",
+          "client_end": "2025-12-05 19:46:58.483499",
+          "initialization": 0
+        }
+      }
+    }
+  },
+  "_metrics": {},
+  "begin_time": 1764956813.233418,
+  "config": {
+    "deployment": {
+      "credentials": {
+        "account_id": "211125350231"
+      },
+      "name": "aws",
+      "region": "us-east-1",
+      "resources": {
+        "benchmarks": "sebs-benchmarks-f25a0428",
+        "http-apis": {},
+        "lambda-role": "arn:aws:iam::211125350231:role/LabRole",
+        "redis": {
+          "host": "localhost",
+          "password": ""
+        },
+        "resources_id": "f25a0428"
+      }
+    },
+    "experiments": {
+      "download_results": true,
+      "experiments": {},
+      "flags": {},
+      "runtime": {
+        "language": "python",
+        "version": "3.8"
+      },
+      "update_code": false,
+      "update_storage": false
+    }
+  },
+  "end_time": 1764956829.441855,
+  "result_bucket": null
+}

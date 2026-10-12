@@ -1,0 +1,15 @@
+{
+  "experiments": {
+    "deployment": "local",
+    "update_code": false,
+    "update_storage": false,
+    "download_results": true,
+    "runtime": {
+      "language": "python",
+      "version": "3.8"
+    }
+  },
+  "deployment": {
+    "name": "local"
+  }
+}

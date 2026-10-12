@@ -1,0 +1,31 @@
+{
+  "experiments": {
+    "deployment": "azure",
+    "update_code": true,
+    "update_storage": true,
+    "download_results": true,
+    "runtime": {
+      "language": "python",
+      "version": "3.11"
+    }
+  },
+  "deployment": {
+    "name": "azure",
+    "azure": {
+      "region": "francecentral",
+      "subscription": "81302959-5cb5-4d61-90cd-7976774373f7",
+      "credentials": {
+        "appId": "0714a427-9ca4-4c08-a7c4-a3e6f429be3b",
+        "tenant": "b6e0a680-49f9-4523-a06b-d5a873656d37",
+        "password": ""
+      },
+      "resources": {
+        "redis": {
+          "host": "4.212.12.97",
+          "port": 6379,
+          "password": ""
+        }
+      }
+    }
+  }
+}

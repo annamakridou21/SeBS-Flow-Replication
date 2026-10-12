@@ -1,0 +1,14 @@
+{
+  "workflow": "660.map-reduce",
+  "platform": "AWS",
+  "runtime": "python:3.8",
+  "trigger": "Step Functions",
+  "repetitions_requested": 15,
+  "repetitions_completed": 15,
+  "successful": 15,
+  "failed": 0,
+  "average_latency_ms": 688.13,
+  "status": "COMPLETE",
+  "timestamp": "2025-12-13T14:04:50",
+  "log_file": "workflow_660_map_reduce_20251213_140450.log"
+}

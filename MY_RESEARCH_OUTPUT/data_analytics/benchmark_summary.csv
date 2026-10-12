@@ -1,0 +1,8 @@
+Benchmark,Type,Platform,Repetitions,Avg Time (ms),Min (ms),Max (ms),StdDev (ms),Cold Starts,Warm Starts
+110_dynamic_html,Function,AWS,30,34511.4,1703,947238,172419.59,1,29
+110_dynamic_html,Function,AZURE,30,5373.57,1472,46857,10102.29,2,28
+210_thumbnailer,Function,AWS,15,819223.07,577776,3647502,783769.85,1,14
+210_thumbnailer,Function,AZURE,15,215644.47,106535,826783,233524.54,2,13
+311_compression,Function,AWS,15,7265409.53,6665796,10987325,1051300.37,1,14
+311_compression,Function,AZURE,15,1528116.6,1230203,2305393,269912.3,2,13
+660_map_reduce,Workflow,AZURE,15,12763890.87,4661062,31724482,10837425.68,0,0

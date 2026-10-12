@@ -1,0 +1,796 @@
+{
+  "_invocations": {
+    "311-compression-python-3-8-8761f13e": {
+      "12e76c12-99d8-46a7-8b0c-369c014004e1": {
+        "billing": {
+          "_billed_time": null,
+          "_gb_seconds": 0,
+          "_memory": null
+        },
+        "output": {
+          "begin": "1764957314.459161",
+          "container_id": "be1288f6",
+          "end": "1764957315.992845",
+          "environ_container_id": "A87A0A3E-639005537713030265",
+          "is_cold": false,
+          "is_cold_worker": false,
+          "request_id": "12e76c12-99d8-46a7-8b0c-369c014004e1",
+          "result": {
+            "measurement": {
+              "compute_time": 392648.0,
+              "download_size": 10063841,
+              "download_time": 958781.0,
+              "upload_size": 9326901,
+              "upload_time": 180799.0
+            },
+            "output": {
+              "bucket": "sebs-benchmarks-8761f13e",
+              "key": "311.compression-0-output/acmart-master.d230672f.zip"
+            }
+          },
+          "results_time": 0
+        },
+        "provider_times": {
+          "execution": 0,
+          "initialization": 0
+        },
+        "request_id": "12e76c12-99d8-46a7-8b0c-369c014004e1",
+        "stats": {
+          "cold_start": false,
+          "failure": false,
+          "memory_used": null
+        },
+        "times": {
+          "benchmark": 1533684,
+          "client": 1824997,
+          "client_begin": "2025-12-05 19:55:14.202000",
+          "client_end": "2025-12-05 19:55:16.026997",
+          "http_first_byte_return": 1.824796,
+          "http_startup": 0.199547,
+          "initialization": 0
+        }
+      },
+      "38f461d1-7278-4587-9851-5d3dffa8b8f2": {
+        "billing": {
+          "_billed_time": null,
+          "_gb_seconds": 0,
+          "_memory": null
+        },
+        "output": {
+          "begin": "1764957309.037579",
+          "container_id": "be1288f6",
+          "end": "1764957310.522105",
+          "environ_container_id": "A87A0A3E-639005537713030265",
+          "is_cold": false,
+          "is_cold_worker": false,
+          "request_id": "38f461d1-7278-4587-9851-5d3dffa8b8f2",
+          "result": {
+            "measurement": {
+              "compute_time": 363247.0,
+              "download_size": 10063841,
+              "download_time": 917923.0,
+              "upload_size": 9326901,
+              "upload_time": 202878.0
+            },
+            "output": {
+              "bucket": "sebs-benchmarks-8761f13e",
+              "key": "311.compression-0-output/acmart-master.7dab6a81.zip"
+            }
+          },
+          "results_time": 0
+        },
+        "provider_times": {
+          "execution": 0,
+          "initialization": 0
+        },
+        "request_id": "38f461d1-7278-4587-9851-5d3dffa8b8f2",
+        "stats": {
+          "cold_start": false,
+          "failure": false,
+          "memory_used": null
+        },
+        "times": {
+          "benchmark": 1484526,
+          "client": 1838797,
+          "client_begin": "2025-12-05 19:55:08.775142",
+          "client_end": "2025-12-05 19:55:10.613939",
+          "http_first_byte_return": 1.838355,
+          "http_startup": 0.199709,
+          "initialization": 0
+        }
+      },
+      "4141681e-26ff-499b-b3ab-2843b8479e3b": {
+        "billing": {
+          "_billed_time": null,
+          "_gb_seconds": 0,
+          "_memory": null
+        },
+        "output": {
+          "begin": "1764957321.544044",
+          "container_id": "be1288f6",
+          "end": "1764957323.027430",
+          "environ_container_id": "A87A0A3E-639005537713030265",
+          "is_cold": false,
+          "is_cold_worker": false,
+          "request_id": "4141681e-26ff-499b-b3ab-2843b8479e3b",
+          "result": {
+            "measurement": {
+              "compute_time": 362847.0,
+              "download_size": 10063841,
+              "download_time": 967519.0,
+              "upload_size": 9326901,
+              "upload_time": 152512.0
+            },
+            "output": {
+              "bucket": "sebs-benchmarks-8761f13e",
+              "key": "311.compression-0-output/acmart-master.ae0a503e.zip"
+            }
+          },
+          "results_time": 0
+        },
+        "provider_times": {
+          "execution": 0,
+          "initialization": 0
+        },
+        "request_id": "4141681e-26ff-499b-b3ab-2843b8479e3b",
+        "stats": {
+          "cold_start": false,
+          "failure": false,
+          "memory_used": null
+        },
+        "times": {
+          "benchmark": 1483386,
+          "client": 1782828,
+          "client_begin": "2025-12-05 19:55:21.268210",
+          "client_end": "2025-12-05 19:55:23.051038",
+          "http_first_byte_return": 1.782377,
+          "http_startup": 0.208506,
+          "initialization": 0
+        }
+      },
+      "415dae6e-6a19-42a6-afb0-6ff2527e5569": {
+        "billing": {
+          "_billed_time": null,
+          "_gb_seconds": 0,
+          "_memory": null
+        },
+        "output": {
+          "begin": "1764957312.508814",
+          "container_id": "be1288f6",
+          "end": "1764957314.081142",
+          "environ_container_id": "A87A0A3E-639005537713030265",
+          "is_cold": false,
+          "is_cold_worker": false,
+          "request_id": "415dae6e-6a19-42a6-afb0-6ff2527e5569",
+          "result": {
+            "measurement": {
+              "compute_time": 353937.0,
+              "download_size": 10063841,
+              "download_time": 976168.0,
+              "upload_size": 9326901,
+              "upload_time": 241755.0
+            },
+            "output": {
+              "bucket": "sebs-benchmarks-8761f13e",
+              "key": "311.compression-0-output/acmart-master.ddf52e88.zip"
+            }
+          },
+          "results_time": 0
+        },
+        "provider_times": {
+          "execution": 0,
+          "initialization": 0
+        },
+        "request_id": "415dae6e-6a19-42a6-afb0-6ff2527e5569",
+        "stats": {
+          "cold_start": false,
+          "failure": false,
+          "memory_used": null
+        },
+        "times": {
+          "benchmark": 1572328,
+          "client": 1941332,
+          "client_begin": "2025-12-05 19:55:12.256945",
+          "client_end": "2025-12-05 19:55:14.198277",
+          "http_first_byte_return": 1.94087,
+          "http_startup": 0.190254,
+          "initialization": 0
+        }
+      },
+      "56ccf91e-b39b-4664-871d-d9b05b38dcb4": {
+        "billing": {
+          "_billed_time": null,
+          "_gb_seconds": 0,
+          "_memory": null
+        },
+        "output": {
+          "begin": "1764957294.686385",
+          "container_id": "02feb188",
+          "end": "1764957296.586956",
+          "environ_container_id": "A87A0A3E-639005537723987267",
+          "is_cold": true,
+          "is_cold_worker": true,
+          "request_id": "56ccf91e-b39b-4664-871d-d9b05b38dcb4",
+          "result": {
+            "measurement": {
+              "compute_time": 381922.0,
+              "download_size": 10063841,
+              "download_time": 814762.0,
+              "upload_size": 9326901,
+              "upload_time": 158845.0
+            },
+            "output": {
+              "bucket": "sebs-benchmarks-8761f13e",
+              "key": "311.compression-0-output/acmart-master.465d481a.zip"
+            }
+          },
+          "results_time": 0
+        },
+        "provider_times": {
+          "execution": 0,
+          "initialization": 0
+        },
+        "request_id": "56ccf91e-b39b-4664-871d-d9b05b38dcb4",
+        "stats": {
+          "cold_start": true,
+          "failure": false,
+          "memory_used": null
+        },
+        "times": {
+          "benchmark": 1900571,
+          "client": 2385281,
+          "client_begin": "2025-12-05 19:54:54.301442",
+          "client_end": "2025-12-05 19:54:56.686723",
+          "http_first_byte_return": 2.385032,
+          "http_startup": 0.281484,
+          "initialization": 0
+        }
+      },
+      "6b6ee85d-4e1b-4909-ace8-abf5b71c6441": {
+        "billing": {
+          "_billed_time": null,
+          "_gb_seconds": 0,
+          "_memory": null
+        },
+        "output": {
+          "begin": "1764957305.549035",
+          "container_id": "be1288f6",
+          "end": "1764957306.953939",
+          "environ_container_id": "A87A0A3E-639005537713030265",
+          "is_cold": false,
+          "is_cold_worker": false,
+          "request_id": "6b6ee85d-4e1b-4909-ace8-abf5b71c6441",
+          "result": {
+            "measurement": {
+              "compute_time": 344426.0,
+              "download_size": 10063841,
+              "download_time": 850107.0,
+              "upload_size": 9326901,
+              "upload_time": 209913.0
+            },
+            "output": {
+              "bucket": "sebs-benchmarks-8761f13e",
+              "key": "311.compression-0-output/acmart-master.424c770a.zip"
+            }
+          },
+          "results_time": 0
+        },
+        "provider_times": {
+          "execution": 0,
+          "initialization": 0
+        },
+        "request_id": "6b6ee85d-4e1b-4909-ace8-abf5b71c6441",
+        "stats": {
+          "cold_start": false,
+          "failure": false,
+          "memory_used": null
+        },
+        "times": {
+          "benchmark": 1404904,
+          "client": 1683863,
+          "client_begin": "2025-12-05 19:55:05.290071",
+          "client_end": "2025-12-05 19:55:06.973934",
+          "http_first_byte_return": 1.683435,
+          "http_startup": 0.199037,
+          "initialization": 0
+        }
+      },
+      "78429d76-3acc-4be0-8828-3fcbc437f84d": {
+        "billing": {
+          "_billed_time": null,
+          "_gb_seconds": 0,
+          "_memory": null
+        },
+        "output": {
+          "begin": "1764957323.295539",
+          "container_id": "02feb188",
+          "end": "1764957324.554413",
+          "environ_container_id": "A87A0A3E-639005537723987267",
+          "is_cold": false,
+          "is_cold_worker": false,
+          "request_id": "78429d76-3acc-4be0-8828-3fcbc437f84d",
+          "result": {
+            "measurement": {
+              "compute_time": 367558.0,
+              "download_size": 10063841,
+              "download_time": 745640.0,
+              "upload_size": 9326901,
+              "upload_time": 145102.0
+            },
+            "output": {
+              "bucket": "sebs-benchmarks-8761f13e",
+              "key": "311.compression-0-output/acmart-master.efca2cdb.zip"
+            }
+          },
+          "results_time": 0
+        },
+        "provider_times": {
+          "execution": 0,
+          "initialization": 0
+        },
+        "request_id": "78429d76-3acc-4be0-8828-3fcbc437f84d",
+        "stats": {
+          "cold_start": false,
+          "failure": false,
+          "memory_used": null
+        },
+        "times": {
+          "benchmark": 1258874,
+          "client": 1588620,
+          "client_begin": "2025-12-05 19:55:23.054407",
+          "client_end": "2025-12-05 19:55:24.643027",
+          "http_first_byte_return": 1.588073,
+          "http_startup": 0.189749,
+          "initialization": 0
+        }
+      },
+      "9b798b99-0f71-43fd-a054-571e2de1a02a": {
+        "billing": {
+          "_billed_time": null,
+          "_gb_seconds": 0,
+          "_memory": null
+        },
+        "output": {
+          "begin": "1764957318.037445",
+          "container_id": "be1288f6",
+          "end": "1764957319.463784",
+          "environ_container_id": "A87A0A3E-639005537713030265",
+          "is_cold": false,
+          "is_cold_worker": false,
+          "request_id": "9b798b99-0f71-43fd-a054-571e2de1a02a",
+          "result": {
+            "measurement": {
+              "compute_time": 401051.0,
+              "download_size": 10063841,
+              "download_time": 831873.0,
+              "upload_size": 9326901,
+              "upload_time": 192749.0
+            },
+            "output": {
+              "bucket": "sebs-benchmarks-8761f13e",
+              "key": "311.compression-0-output/acmart-master.6109b9c4.zip"
+            }
+          },
+          "results_time": 0
+        },
+        "provider_times": {
+          "execution": 0,
+          "initialization": 0
+        },
+        "request_id": "9b798b99-0f71-43fd-a054-571e2de1a02a",
+        "stats": {
+          "cold_start": false,
+          "failure": false,
+          "memory_used": null
+        },
+        "times": {
+          "benchmark": 1426339,
+          "client": 1736029,
+          "client_begin": "2025-12-05 19:55:17.786348",
+          "client_end": "2025-12-05 19:55:19.522377",
+          "http_first_byte_return": 1.735829,
+          "http_startup": 0.189018,
+          "initialization": 0
+        }
+      },
+      "ba52e0fe-81c6-4cad-8523-a3598ad2c09a": {
+        "billing": {
+          "_billed_time": null,
+          "_gb_seconds": 0,
+          "_memory": null
+        },
+        "output": {
+          "begin": "1764957310.866623",
+          "container_id": "02feb188",
+          "end": "1764957312.215449",
+          "environ_container_id": "A87A0A3E-639005537723987267",
+          "is_cold": false,
+          "is_cold_worker": false,
+          "request_id": "ba52e0fe-81c6-4cad-8523-a3598ad2c09a",
+          "result": {
+            "measurement": {
+              "compute_time": 347863.0,
+              "download_size": 10063841,
+              "download_time": 807951.0,
+              "upload_size": 9326901,
+              "upload_time": 192150.0
+            },
+            "output": {
+              "bucket": "sebs-benchmarks-8761f13e",
+              "key": "311.compression-0-output/acmart-master.05c6a10c.zip"
+            }
+          },
+          "results_time": 0
+        },
+        "provider_times": {
+          "execution": 0,
+          "initialization": 0
+        },
+        "request_id": "ba52e0fe-81c6-4cad-8523-a3598ad2c09a",
+        "stats": {
+          "cold_start": false,
+          "failure": false,
+          "memory_used": null
+        },
+        "times": {
+          "benchmark": 1348826,
+          "client": 1634608,
+          "client_begin": "2025-12-05 19:55:10.617770",
+          "client_end": "2025-12-05 19:55:12.252378",
+          "http_first_byte_return": 1.634145,
+          "http_startup": 0.191794,
+          "initialization": 0
+        }
+      },
+      "be6e34b6-59d5-4872-b4b6-98a513f801ae": {
+        "billing": {
+          "_billed_time": null,
+          "_gb_seconds": 0,
+          "_memory": null
+        },
+        "output": {
+          "begin": "1764957307.234202",
+          "container_id": "be1288f6",
+          "end": "1764957308.727615",
+          "environ_container_id": "A87A0A3E-639005537713030265",
+          "is_cold": false,
+          "is_cold_worker": false,
+          "request_id": "be6e34b6-59d5-4872-b4b6-98a513f801ae",
+          "result": {
+            "measurement": {
+              "compute_time": 368337.0,
+              "download_size": 10063841,
+              "download_time": 978264.0,
+              "upload_size": 9326901,
+              "upload_time": 146307.0
+            },
+            "output": {
+              "bucket": "sebs-benchmarks-8761f13e",
+              "key": "311.compression-0-output/acmart-master.6266e257.zip"
+            }
+          },
+          "results_time": 0
+        },
+        "provider_times": {
+          "execution": 0,
+          "initialization": 0
+        },
+        "request_id": "be6e34b6-59d5-4872-b4b6-98a513f801ae",
+        "stats": {
+          "cold_start": false,
+          "failure": false,
+          "memory_used": null
+        },
+        "times": {
+          "benchmark": 1493413,
+          "client": 1792095,
+          "client_begin": "2025-12-05 19:55:06.978483",
+          "client_end": "2025-12-05 19:55:08.770578",
+          "http_first_byte_return": 1.791751,
+          "http_startup": 0.189051,
+          "initialization": 0
+        }
+      },
+      "c5d17b39-a317-43c7-8342-8c32430a8432": {
+        "billing": {
+          "_billed_time": null,
+          "_gb_seconds": 0,
+          "_memory": null
+        },
+        "output": {
+          "begin": "1764957319.787093",
+          "container_id": "be1288f6",
+          "end": "1764957321.178955",
+          "environ_container_id": "A87A0A3E-639005537713030265",
+          "is_cold": false,
+          "is_cold_worker": false,
+          "request_id": "c5d17b39-a317-43c7-8342-8c32430a8432",
+          "result": {
+            "measurement": {
+              "compute_time": 373943.0,
+              "download_size": 10063841,
+              "download_time": 847917.0,
+              "upload_size": 9326901,
+              "upload_time": 169531.0
+            },
+            "output": {
+              "bucket": "sebs-benchmarks-8761f13e",
+              "key": "311.compression-0-output/acmart-master.1924c115.zip"
+            }
+          },
+          "results_time": 0
+        },
+        "provider_times": {
+          "execution": 0,
+          "initialization": 0
+        },
+        "request_id": "c5d17b39-a317-43c7-8342-8c32430a8432",
+        "stats": {
+          "cold_start": false,
+          "failure": false,
+          "memory_used": null
+        },
+        "times": {
+          "benchmark": 1391862,
+          "client": 1738813,
+          "client_begin": "2025-12-05 19:55:19.524855",
+          "client_end": "2025-12-05 19:55:21.263668",
+          "http_first_byte_return": 1.738368,
+          "http_startup": 0.199251,
+          "initialization": 0
+        }
+      },
+      "dd7a74d9-4575-4545-bf58-58a8e9d5bfe6": {
+        "billing": {
+          "_billed_time": null,
+          "_gb_seconds": 0,
+          "_memory": null
+        },
+        "output": {
+          "begin": "1764957300.793277",
+          "container_id": "be1288f6",
+          "end": "1764957303.098670",
+          "environ_container_id": "A87A0A3E-639005537713030265",
+          "is_cold": true,
+          "is_cold_worker": true,
+          "request_id": "dd7a74d9-4575-4545-bf58-58a8e9d5bfe6",
+          "result": {
+            "measurement": {
+              "compute_time": 365869.0,
+              "download_size": 10063841,
+              "download_time": 1129196.0,
+              "upload_size": 9326901,
+              "upload_time": 267354.0
+            },
+            "output": {
+              "bucket": "sebs-benchmarks-8761f13e",
+              "key": "311.compression-0-output/acmart-master.b094b57b.zip"
+            }
+          },
+          "results_time": 0
+        },
+        "provider_times": {
+          "execution": 0,
+          "initialization": 0
+        },
+        "request_id": "dd7a74d9-4575-4545-bf58-58a8e9d5bfe6",
+        "stats": {
+          "cold_start": true,
+          "failure": false,
+          "memory_used": null
+        },
+        "times": {
+          "benchmark": 2305393,
+          "client": 5013961,
+          "client_begin": "2025-12-05 19:54:58.227264",
+          "client_end": "2025-12-05 19:55:03.241225",
+          "http_first_byte_return": 5.013688,
+          "http_startup": 0.20322,
+          "initialization": 0
+        }
+      },
+      "e25ff5dd-d6fb-47f4-b07d-e3d9f32ae8ac": {
+        "billing": {
+          "_billed_time": null,
+          "_gb_seconds": 0,
+          "_memory": null
+        },
+        "output": {
+          "begin": "1764957303.512998",
+          "container_id": "be1288f6",
+          "end": "1764957305.183177",
+          "environ_container_id": "A87A0A3E-639005537713030265",
+          "is_cold": false,
+          "is_cold_worker": false,
+          "request_id": "e25ff5dd-d6fb-47f4-b07d-e3d9f32ae8ac",
+          "result": {
+            "measurement": {
+              "compute_time": 482641.0,
+              "download_size": 10063841,
+              "download_time": 1025270.0,
+              "upload_size": 9326901,
+              "upload_time": 161450.0
+            },
+            "output": {
+              "bucket": "sebs-benchmarks-8761f13e",
+              "key": "311.compression-0-output/acmart-master.449cba6d.zip"
+            }
+          },
+          "results_time": 0
+        },
+        "provider_times": {
+          "execution": 0,
+          "initialization": 0
+        },
+        "request_id": "e25ff5dd-d6fb-47f4-b07d-e3d9f32ae8ac",
+        "stats": {
+          "cold_start": false,
+          "failure": false,
+          "memory_used": null
+        },
+        "times": {
+          "benchmark": 1670179,
+          "client": 2044162,
+          "client_begin": "2025-12-05 19:55:03.244346",
+          "client_end": "2025-12-05 19:55:05.288508",
+          "http_first_byte_return": 2.044025,
+          "http_startup": 0.205309,
+          "initialization": 0
+        }
+      },
+      "f4bbe458-20d9-450f-8e58-bc1f1cf0ab47": {
+        "billing": {
+          "_billed_time": null,
+          "_gb_seconds": 0,
+          "_memory": null
+        },
+        "output": {
+          "begin": "1764957316.286956",
+          "container_id": "be1288f6",
+          "end": "1764957317.704217",
+          "environ_container_id": "A87A0A3E-639005537713030265",
+          "is_cold": false,
+          "is_cold_worker": false,
+          "request_id": "f4bbe458-20d9-450f-8e58-bc1f1cf0ab47",
+          "result": {
+            "measurement": {
+              "compute_time": 375802.0,
+              "download_size": 10063841,
+              "download_time": 914672.0,
+              "upload_size": 9326901,
+              "upload_time": 126237.0
+            },
+            "output": {
+              "bucket": "sebs-benchmarks-8761f13e",
+              "key": "311.compression-0-output/acmart-master.58965ab1.zip"
+            }
+          },
+          "results_time": 0
+        },
+        "provider_times": {
+          "execution": 0,
+          "initialization": 0
+        },
+        "request_id": "f4bbe458-20d9-450f-8e58-bc1f1cf0ab47",
+        "stats": {
+          "cold_start": false,
+          "failure": false,
+          "memory_used": null
+        },
+        "times": {
+          "benchmark": 1417261,
+          "client": 1752450,
+          "client_begin": "2025-12-05 19:55:16.029587",
+          "client_end": "2025-12-05 19:55:17.782037",
+          "http_first_byte_return": 1.751973,
+          "http_startup": 0.196991,
+          "initialization": 0
+        }
+      },
+      "f6846f57-b0ec-428c-8cb1-d9cc3add3d64": {
+        "billing": {
+          "_billed_time": null,
+          "_gb_seconds": 0,
+          "_memory": null
+        },
+        "output": {
+          "begin": "1764957296.940780",
+          "container_id": "02feb188",
+          "end": "1764957298.170983",
+          "environ_container_id": "A87A0A3E-639005537723987267",
+          "is_cold": false,
+          "is_cold_worker": false,
+          "request_id": "f6846f57-b0ec-428c-8cb1-d9cc3add3d64",
+          "result": {
+            "measurement": {
+              "compute_time": 353775.0,
+              "download_size": 10063841,
+              "download_time": 732146.0,
+              "upload_size": 9326901,
+              "upload_time": 143764.0
+            },
+            "output": {
+              "bucket": "sebs-benchmarks-8761f13e",
+              "key": "311.compression-0-output/acmart-master.157bb86e.zip"
+            }
+          },
+          "results_time": 0
+        },
+        "provider_times": {
+          "execution": 0,
+          "initialization": 0
+        },
+        "request_id": "f6846f57-b0ec-428c-8cb1-d9cc3add3d64",
+        "stats": {
+          "cold_start": false,
+          "failure": false,
+          "memory_used": null
+        },
+        "times": {
+          "benchmark": 1230203,
+          "client": 1534310,
+          "client_begin": "2025-12-05 19:54:56.687837",
+          "client_end": "2025-12-05 19:54:58.222147",
+          "http_first_byte_return": 1.53385,
+          "http_startup": 0.195146,
+          "initialization": 0
+        }
+      }
+    }
+  },
+  "_metrics": {},
+  "begin_time": 1764957294.223277,
+  "config": {
+    "deployment": {
+      "credentials": {
+        "subscription_id": "81302959-5cb5-4d61-90cd-7976774373f7"
+      },
+      "name": "azure",
+      "region": "francecentral",
+      "resources": {
+        "benchmarks": "sebs-benchmarks-8761f13e",
+        "data_storage_account": {
+          "account_name": "storage8761f13e",
+          "connection_string": ""
+        },
+        "redis": {
+          "host": "localhost",
+          "password": ""
+        },
+        "resource_group": "sebs_resource_group_8761f13e",
+        "resources_id": "8761f13e",
+        "storage_accounts": [
+          {
+            "account_name": "functiona9c7c302",
+            "connection_string": ""
+          },
+          {
+            "account_name": "function0f401c1e",
+            "connection_string": ""
+          },
+          {
+            "account_name": "functionc005adf8",
+            "connection_string": ""
+          },
+          {
+            "account_name": "function386d746e",
+            "connection_string": ""
+          }
+        ]
+      }
+    },
+    "experiments": {
+      "download_results": true,
+      "experiments": {},
+      "flags": {},
+      "runtime": {
+        "language": "python",
+        "version": "3.8"
+      },
+      "update_code": true,
+      "update_storage": true
+    }
+  },
+  "end_time": 1764957324.647061,
+  "result_bucket": null
+}
